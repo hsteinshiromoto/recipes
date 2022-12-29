@@ -1,0 +1,159 @@
+{
+  "main": {
+    "id": "6ed480a4a6b48826",
+    "type": "split",
+    "children": [
+      {
+        "id": "4a95ac2cbc53980c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ddeb45d316eb29b6",
+            "type": "leaf",
+            "state": {
+              "type": "graph",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "b5f2959c731cad58",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "a0ee59f328e05882",
+        "type": "leaf",
+        "state": {
+          "type": "file-explorer",
+          "state": {
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "15df44c61f52944b",
+        "type": "leaf",
+        "state": {
+          "type": "search",
+          "state": {
+            "query": "",
+            "matchingCase": false,
+            "explainSearch": false,
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical"
+          }
+        }
+      },
+      {
+        "id": "423e12e6d4d3e767",
+        "type": "leaf",
+        "state": {
+          "type": "tag",
+          "state": {
+            "sortOrder": "frequency",
+            "useHierarchy": true
+          }
+        }
+      },
+      {
+        "id": "bcc4c8fe9966750f",
+        "type": "leaf",
+        "state": {
+          "type": "starred",
+          "state": {}
+        }
+      },
+      {
+        "id": "3fccf7c3d379a8ab",
+        "type": "leaf",
+        "state": {
+          "type": "recent-files",
+          "state": {}
+        }
+      },
+      {
+        "id": "878999a7264aac33",
+        "type": "leaf",
+        "state": {
+          "type": "file-tree-view",
+          "state": {}
+        }
+      }
+    ],
+    "currentTab": 5
+  },
+  "right": {
+    "id": "1a1e1f8f49858679",
+    "type": "mobile-drawer",
+    "children": [
+      {
+        "id": "fcb199dd1c3eda1b",
+        "type": "leaf",
+        "state": {
+          "type": "backlink",
+          "state": {
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": false,
+            "searchQuery": "",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "bec4c5ac5c1c52aa",
+        "type": "leaf",
+        "state": {
+          "type": "outgoing-link",
+          "state": {
+            "linksCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        }
+      },
+      {
+        "id": "6a623b1dedf07737",
+        "type": "leaf",
+        "state": {
+          "type": "outline",
+          "state": {}
+        }
+      },
+      {
+        "id": "921485b1681359af",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "add5fd6ddaf15ebc",
+        "type": "leaf",
+        "state": {
+          "type": "BC-tree",
+          "state": {}
+        }
+      }
+    ]
+  },
+  "active": "ddeb45d316eb29b6",
+  "lastOpenFiles": [
+    "Tiramisu.md",
+    "Ingredients/powdered gelatin.md",
+    "Ingredients/Mascarpone.md",
+    "Ingredients/wholemeal flour.md",
+    "Pizza Dough.md",
+    "Ingredients/olive oil.md",
+    "olive oil..md",
+    "Black Forest Terrine.md",
+    "Dessert Terrine.md"
+  ]
+}
