@@ -11,8 +11,13 @@
             "id": "ddeb45d316eb29b6",
             "type": "leaf",
             "state": {
-              "type": "graph",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "White Cuban.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
             }
           }
         ]
@@ -85,7 +90,7 @@
         }
       }
     ],
-    "currentTab": 5
+    "currentTab": 0
   },
   "right": {
     "id": "1a1e1f8f49858679",
@@ -97,6 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
+            "file": "White Cuban.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -113,6 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
+            "file": "White Cuban.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -123,7 +130,9 @@
         "type": "leaf",
         "state": {
           "type": "outline",
-          "state": {}
+          "state": {
+            "file": "White Cuban.md"
+          }
         }
       },
       {
@@ -141,19 +150,36 @@
           "type": "BC-tree",
           "state": {}
         }
+      },
+      {
+        "id": "ba83e728faad1ace",
+        "type": "leaf",
+        "state": {
+          "type": "BC-matrix",
+          "state": {}
+        }
+      },
+      {
+        "id": "a9177de7508648ad",
+        "type": "leaf",
+        "state": {
+          "type": "Strange New Worlds",
+          "state": {}
+        }
       }
     ]
   },
   "active": "ddeb45d316eb29b6",
   "lastOpenFiles": [
+    "Coffee Syrup.md",
+    "White Cuban.md",
     "Tiramisu.md",
+    "Peanut Butter Mousse Crunch Cake.md",
+    "Black Forest Terrine.md",
     "Ingredients/powdered gelatin.md",
     "Ingredients/Mascarpone.md",
     "Ingredients/wholemeal flour.md",
     "Pizza Dough.md",
-    "Ingredients/olive oil.md",
-    "olive oil..md",
-    "Black Forest Terrine.md",
-    "Dessert Terrine.md"
+    "Ingredients/olive oil.md"
   ]
 }

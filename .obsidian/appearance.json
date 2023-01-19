@@ -1,8 +1,9 @@
 {
   "accentColor": "",
-  "cssTheme": "Dracula Official",
+  "cssTheme": "Things",
   "monospaceFontFamily": "JetBrains Mono",
   "textFontFamily": "Helvetica",
   "interfaceFontFamily": "Helvetica",
-  "translucency": true
+  "translucency": true,
+  "theme": "system"
 }

@@ -4,23 +4,63 @@
     "type": "split",
     "children": [
       {
-        "id": "92b62c144442ce0c",
+        "id": "d9273edb917ad2de",
         "type": "tabs",
         "children": [
           {
-            "id": "26605ade444da706",
+            "id": "2cf9e4028ed9e10f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Tomatoes with smoky and salty feta cheese.md",
+                "file": "Pizza Dough.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a9e856fce7ae2d81",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Chicken Thigh.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "287bc849a686ba9e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Garlic.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee81535bafa96a80",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Peanut Butter Mousse Crunch Cake.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -73,17 +113,8 @@
               "type": "recent-files",
               "state": {}
             }
-          },
-          {
-            "id": "23ac4886e4535c9c",
-            "type": "leaf",
-            "state": {
-              "type": "file-tree-view",
-              "state": {}
-            }
           }
-        ],
-        "currentTab": 4
+        ]
       }
     ],
     "direction": "horizontal",
@@ -103,7 +134,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Tomatoes with smoky and salty feta cheese.md",
+                "file": "Peanut Butter Mousse Crunch Cake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -120,7 +151,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Tomatoes with smoky and salty feta cheese.md",
+                "file": "Peanut Butter Mousse Crunch Cake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -143,7 +174,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Tomatoes with smoky and salty feta cheese.md"
+                "file": "Peanut Butter Mousse Crunch Cake.md"
               }
             }
           },
@@ -162,9 +193,17 @@
               "type": "BC-tree",
               "state": {}
             }
+          },
+          {
+            "id": "8982a4d8d7515b67",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
           }
         ],
-        "currentTab": 3
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -181,21 +220,20 @@
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
       "command-palette:Open command palette": false,
-      "zk-prefixer:Create new unique note": false,
-      "file-tree-alternative:File Tree Alternative Plugin": false
+      "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "26605ade444da706",
+  "active": "ee81535bafa96a80",
   "lastOpenFiles": [
-    "Tiramisu.md",
-    "Three Cheese Tomato Tart.md",
-    "French Terrine.md",
-    "Peanut Butter Mousse Crunch Cake.md",
-    "Dessert Terrine.md",
-    "Black Forest Terrine.md",
-    "Tomatoes with smoky and salty feta cheese.md",
     "Pizza Dough.md",
-    "Ingredients/pistachios.md",
-    "_meta_/_templates_/Recipe.md"
+    "Chicken Rice.md",
+    "Ingredients/Sambal.md",
+    "Ingredients/Chicken Thigh.md",
+    "Ingredients/Chicken Skin.md",
+    "Ingredients/sesame oil.md",
+    "Ingredients/Untitled 1.md",
+    "Ingredients/Sriracha.md",
+    "Ingredients/Chicken Broth.md",
+    "Ingredients/Rice.md"
   ]
 }
