@@ -1,12 +1,56 @@
 {
   "recentFiles": [
     {
+      "basename": "Garlic",
+      "path": "Ingredients/Garlic.md"
+    },
+    {
+      "basename": "Fetta",
+      "path": "Ingredients/Fetta.md"
+    },
+    {
+      "basename": "Cheddar",
+      "path": "Ingredients/Cheddar.md"
+    },
+    {
+      "basename": "Parmiggiano",
+      "path": "Ingredients/Parmiggiano.md"
+    },
+    {
+      "basename": "Mozzarella",
+      "path": "Ingredients/Mozzarella.md"
+    },
+    {
+      "basename": "Kebab White Sauce",
+      "path": "Kebab White Sauce.md"
+    },
+    {
+      "basename": "Yoghurt",
+      "path": "Ingredients/Yoghurt.md"
+    },
+    {
+      "basename": "Lemon",
+      "path": "Ingredients/Lemon.md"
+    },
+    {
+      "basename": "Dill",
+      "path": "Ingredients/Dill.md"
+    },
+    {
       "basename": "Peanut Butter Mousse Crunch Cake",
       "path": "Peanut Butter Mousse Crunch Cake.md"
     },
     {
       "basename": "Pizza Dough",
       "path": "Pizza Dough.md"
+    },
+    {
+      "basename": "Pad Thai",
+      "path": "Pad Thai.md"
+    },
+    {
+      "basename": "White Cuban",
+      "path": "White Cuban.md"
     },
     {
       "basename": "Chicken Rice",
@@ -49,16 +93,8 @@
       "path": "Ingredients/Honey.md"
     },
     {
-      "basename": "Garlic",
-      "path": "Ingredients/Garlic.md"
-    },
-    {
       "basename": "scallion",
       "path": "Ingredients/scallion.md"
-    },
-    {
-      "basename": "Pad Thai",
-      "path": "Pad Thai.md"
     },
     {
       "basename": "Whole Chicken",
@@ -95,10 +131,6 @@
     {
       "basename": "Beef Bone",
       "path": "Ingredients/Beef Bone.md"
-    },
-    {
-      "basename": "White Cuban",
-      "path": "White Cuban.md"
     },
     {
       "basename": "Black Cardamom",
@@ -167,38 +199,6 @@
     {
       "basename": "Chinese Black Bean Garlic Sauce",
       "path": "Chinese Black Bean Garlic Sauce.md"
-    },
-    {
-      "basename": "tangerine",
-      "path": "Ingredients/tangerine.md"
-    },
-    {
-      "basename": "Fermented black soybeans",
-      "path": "Ingredients/Fermented black soybeans.md"
-    },
-    {
-      "basename": "shallot",
-      "path": "Ingredients/shallot.md"
-    },
-    {
-      "basename": "chicken bouillon powder",
-      "path": "Ingredients/chicken bouillon powder.md"
-    },
-    {
-      "basename": "soy sauce",
-      "path": "Ingredients/soy sauce.md"
-    },
-    {
-      "basename": "Cantonese Chow Mein",
-      "path": "Cantonese Chow Mein.md"
-    },
-    {
-      "basename": "wok",
-      "path": "Equipments/wok.md"
-    },
-    {
-      "basename": "oyster sauce",
-      "path": "Ingredients/oyster sauce.md"
     }
   ],
   "omittedPaths": [],

@@ -47,16 +47,11 @@
             }
           },
           {
-            "id": "ee81535bafa96a80",
+            "id": "7b61033728e7a482",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Peanut Butter Mousse Crunch Cake.md",
-                "mode": "source",
-                "backlinks": true,
-                "source": false
-              }
+              "type": "graph",
+              "state": {}
             }
           }
         ],
@@ -134,7 +129,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Peanut Butter Mousse Crunch Cake.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -151,7 +145,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Peanut Butter Mousse Crunch Cake.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -173,9 +166,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "Peanut Butter Mousse Crunch Cake.md"
-              }
+              "state": {}
             }
           },
           {
@@ -207,7 +198,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -223,17 +215,17 @@
       "zk-prefixer:Create new unique note": false
     }
   },
-  "active": "ee81535bafa96a80",
+  "active": "7b61033728e7a482",
   "lastOpenFiles": [
-    "Pizza Dough.md",
-    "Chicken Rice.md",
-    "Ingredients/Sambal.md",
-    "Ingredients/Chicken Thigh.md",
-    "Ingredients/Chicken Skin.md",
-    "Ingredients/sesame oil.md",
-    "Ingredients/Untitled 1.md",
-    "Ingredients/Sriracha.md",
-    "Ingredients/Chicken Broth.md",
-    "Ingredients/Rice.md"
+    "Ingredients/Garlic.md",
+    "Ingredients/Fetta.md",
+    "Ingredients/Cheddar.md",
+    "Ingredients/Parmiggiano.md",
+    "Ingredients/Mozzarella.md",
+    "Kebab White Sauce.md",
+    "Ingredients/Yoghurt.md",
+    "Ingredients/Lemon.md",
+    "Ingredients/Dill.md",
+    "Peanut Butter Mousse Crunch Cake.md"
   ]
 }
