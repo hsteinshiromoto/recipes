@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Prik Nam Pla",
+      "path": "Prik Nam Pla.md"
+    },
+    {
+      "basename": "Pizza Dough",
+      "path": "Pizza Dough.md"
+    },
+    {
       "basename": "Garlic",
       "path": "Ingredients/Garlic.md"
     },
@@ -39,10 +47,6 @@
     {
       "basename": "Peanut Butter Mousse Crunch Cake",
       "path": "Peanut Butter Mousse Crunch Cake.md"
-    },
-    {
-      "basename": "Pizza Dough",
-      "path": "Pizza Dough.md"
     },
     {
       "basename": "Pad Thai",
@@ -195,10 +199,6 @@
     {
       "basename": "French Terrine",
       "path": "French Terrine.md"
-    },
-    {
-      "basename": "Chinese Black Bean Garlic Sauce",
-      "path": "Chinese Black Bean Garlic Sauce.md"
     }
   ],
   "omittedPaths": [],
