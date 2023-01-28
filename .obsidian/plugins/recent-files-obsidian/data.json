@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Chicken Rice",
+      "path": "Recipes/Chicken Rice.md"
+    },
+    {
       "basename": "Prik Nam Pla",
       "path": "Prik Nam Pla.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "baking powder",
       "path": "Ingredients/baking powder.md"
-    },
-    {
-      "basename": "French Terrine",
-      "path": "French Terrine.md"
     }
   ],
   "omittedPaths": [],
