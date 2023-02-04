@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Pad Thai",
+      "path": "Recipes/Pad Thai.md"
+    },
+    {
       "basename": "Chicken Rice",
       "path": "Recipes/Chicken Rice.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "The Best Crispy Roast Potatoes Ever Recipe",
       "path": "The Best Crispy Roast Potatoes Ever Recipe.md"
-    },
-    {
-      "basename": "baking powder",
-      "path": "Ingredients/baking powder.md"
     }
   ],
   "omittedPaths": [],
