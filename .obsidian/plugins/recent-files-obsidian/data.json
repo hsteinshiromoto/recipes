@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Black Forest Terrine",
+      "path": "Recipes/Black Forest Terrine.md"
+    },
+    {
       "basename": "Pad Thai",
       "path": "Recipes/Pad Thai.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "baking soda",
       "path": "Ingredients/baking soda.md"
-    },
-    {
-      "basename": "The Best Crispy Roast Potatoes Ever Recipe",
-      "path": "The Best Crispy Roast Potatoes Ever Recipe.md"
     }
   ],
   "omittedPaths": [],

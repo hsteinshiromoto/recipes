@@ -13,8 +13,8 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Recipes/Pad Thai.md",
-                "mode": "source",
+                "file": "Recipes/Black Forest Terrine.md",
+                "mode": "preview",
                 "backlinks": true,
                 "source": false
               }
@@ -102,7 +102,7 @@
         "state": {
           "type": "backlink",
           "state": {
-            "file": "Recipes/Pad Thai.md",
+            "file": "Recipes/Black Forest Terrine.md",
             "collapseAll": false,
             "extraContext": false,
             "sortOrder": "alphabetical",
@@ -119,7 +119,7 @@
         "state": {
           "type": "outgoing-link",
           "state": {
-            "file": "Recipes/Pad Thai.md",
+            "file": "Recipes/Black Forest Terrine.md",
             "linksCollapsed": false,
             "unlinkedCollapsed": true
           }
@@ -131,7 +131,7 @@
         "state": {
           "type": "outline",
           "state": {
-            "file": "Recipes/Pad Thai.md"
+            "file": "Recipes/Black Forest Terrine.md"
           }
         }
       },
@@ -179,6 +179,7 @@
   },
   "active": "ddeb45d316eb29b6",
   "lastOpenFiles": [
+    "Recipes/Pad Thai.md",
     "Recipes/Chicken Rice.md",
     "Pizza Dough.md",
     "Pad Thai.md",
@@ -187,7 +188,6 @@
     "Coffee Syrup.md",
     "Tiramisu.md",
     "Peanut Butter Mousse Crunch Cake.md",
-    "Black Forest Terrine.md",
-    "Ingredients/powdered gelatin.md"
+    "Black Forest Terrine.md"
   ]
 }
