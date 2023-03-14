@@ -177,6 +177,20 @@
       }
     ]
   },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "omnisearch:Omnisearch": false
+    }
+  },
   "active": "ddeb45d316eb29b6",
   "lastOpenFiles": [
     "Recipes/Pad Thai.md",
