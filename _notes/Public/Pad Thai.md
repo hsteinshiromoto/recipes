@@ -9,6 +9,9 @@ title: Pad Thai
 linter-yaml-title-alias: Pad Thai
 date created: Thursday, 19th January 2023, 22:06:18
 date modified: Thursday, 19th January 2023, 22:23:46
+feed: show
+permalink: /padthai
+format: list
 ---
 
 # Pad Thai
