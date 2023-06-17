@@ -16,6 +16,19 @@ format: list
 
 # Pad Thai
 
+## Table of Contents
+
+- [Pad Thai](#pad-thai)
+  - [Table of Contents](#table-of-contents)
+  - [Ingredients](#ingredients)
+    - [Pad Thai Sauce](#pad-thai-sauce)
+    - [Pad Thai](#pad-thai-1)
+  - [Instructions](#instructions)
+    - [Pad Thai Sauce Method](#pad-thai-sauce-method)
+    - [Pad Thai Method](#pad-thai-method)
+  - [References](#references)
+
+
 ## Ingredients
 
 ### Pad Thai Sauce
