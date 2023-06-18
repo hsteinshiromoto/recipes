@@ -62,7 +62,7 @@ plugins:
   - jekyll-feed 
   - jekyll-sitemap 
   - jekyll-tidy
-    
+  - jekyll-wikilinks
 ## Enable Collections
 ## Suggested collects are "notes" "lists" and "blog"
 collections:
