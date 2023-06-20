@@ -19,8 +19,22 @@
                 "source": false
               }
             }
+          },
+          {
+            "id": "568b0b41ff74da64",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chinese Pan Fried Protein.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -102,7 +116,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Pad Thai.md",
+                "file": "Chinese Pan Fried Protein.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -119,7 +133,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Pad Thai.md",
+                "file": "Chinese Pan Fried Protein.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -142,7 +156,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Pad Thai.md"
+                "file": "Chinese Pan Fried Protein.md"
               }
             }
           },
@@ -208,8 +222,11 @@
       "omnisearch:Omnisearch": false
     }
   },
-  "active": "8c37bbbfc9809aac",
+  "active": "568b0b41ff74da64",
   "lastOpenFiles": [
+    "Ingredients/Shaoxing wine.md",
+    "Chinese Pan Fried Protein.md",
+    "Pad Thai.md",
     "Kebab White Sauce.md",
     "Ingredients/Garlic.md",
     "Recipes/Sweet and Spicy Steak Rice Bowl.md",
@@ -232,9 +249,6 @@
     "Ingredients/Cheddar.md",
     "Ingredients/Parmiggiano.md",
     "Ingredients/Mozzarella.md",
-    "Ingredients/Yoghurt.md",
-    "Ingredients/Lemon.md",
-    "Ingredients/Dill.md",
-    "Peanut Butter Mousse Crunch Cake.md"
+    "Ingredients/Yoghurt.md"
   ]
 }

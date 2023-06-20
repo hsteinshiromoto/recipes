@@ -1,6 +1,14 @@
 {
   "recentFiles": [
     {
+      "basename": "Chinese Pan Fried Protein",
+      "path": "Chinese Pan Fried Protein.md"
+    },
+    {
+      "basename": "Shaoxing wine",
+      "path": "Ingredients/Shaoxing wine.md"
+    },
+    {
       "basename": "Pad Thai",
       "path": "Pad Thai.md"
     },
@@ -191,10 +199,6 @@
     {
       "basename": "Peanut",
       "path": "Ingredients/Peanut.md"
-    },
-    {
-      "basename": "Beef Bone",
-      "path": "Ingredients/Beef Bone.md"
     }
   ],
   "omittedPaths": [],
