@@ -5,6 +5,10 @@
       "path": "Chinese Pan Fried Protein.md"
     },
     {
+      "basename": "garlic salt",
+      "path": "Ingredients/garlic salt.md"
+    },
+    {
       "basename": "Shaoxing wine",
       "path": "Ingredients/Shaoxing wine.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Dried Shrimp",
       "path": "Ingredients/Dried Shrimp.md"
-    },
-    {
-      "basename": "Peanut",
-      "path": "Ingredients/Peanut.md"
     }
   ],
   "omittedPaths": [],
