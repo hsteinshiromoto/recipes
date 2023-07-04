@@ -1,6 +1,42 @@
 {
   "recentFiles": [
     {
+      "basename": "Curau de Milho",
+      "path": "Curau de Milho.md"
+    },
+    {
+      "basename": "Thai Basil Chicken Stir Fry",
+      "path": "Thai Basil Chicken Stir Fry.md"
+    },
+    {
+      "basename": "Prik Nam Pla",
+      "path": "Prik Nam Pla.md"
+    },
+    {
+      "basename": "Scallion Noodles",
+      "path": "Scallion Noodles.md"
+    },
+    {
+      "basename": "Pho",
+      "path": "Pho.md"
+    },
+    {
+      "basename": "Pizza Dough",
+      "path": "Pizza Dough.md"
+    },
+    {
+      "basename": "Dessert Terrine",
+      "path": "Dessert Terrine.md"
+    },
+    {
+      "basename": "Chicken Rice",
+      "path": "Chicken Rice.md"
+    },
+    {
+      "basename": "Corn",
+      "path": "Ingredients/Corn.md"
+    },
+    {
       "basename": "Chinese Pan Fried Protein",
       "path": "Chinese Pan Fried Protein.md"
     },
@@ -85,14 +121,6 @@
       "path": "Recipes/Chicken Rice.md"
     },
     {
-      "basename": "Prik Nam Pla",
-      "path": "Prik Nam Pla.md"
-    },
-    {
-      "basename": "Pizza Dough",
-      "path": "Pizza Dough.md"
-    },
-    {
       "basename": "Fetta",
       "path": "Ingredients/Fetta.md"
     },
@@ -127,10 +155,6 @@
     {
       "basename": "White Cuban",
       "path": "White Cuban.md"
-    },
-    {
-      "basename": "Chicken Rice",
-      "path": "Chicken Rice.md"
     },
     {
       "basename": "Sambal",
@@ -175,30 +199,6 @@
     {
       "basename": "Whole Chicken",
       "path": "Ingredients/Whole Chicken.md"
-    },
-    {
-      "basename": "Ketchup",
-      "path": "Ingredients/Ketchup.md"
-    },
-    {
-      "basename": "Tamarind Concentrate",
-      "path": "Ingredients/Tamarind Concentrate.md"
-    },
-    {
-      "basename": "Pho",
-      "path": "Pho.md"
-    },
-    {
-      "basename": "Thai Chilli",
-      "path": "Ingredients/Thai Chilli.md"
-    },
-    {
-      "basename": "Lime",
-      "path": "Ingredients/Lime.md"
-    },
-    {
-      "basename": "Dried Shrimp",
-      "path": "Ingredients/Dried Shrimp.md"
     }
   ],
   "omittedPaths": [],
