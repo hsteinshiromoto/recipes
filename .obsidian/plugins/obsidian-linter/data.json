@@ -52,7 +52,7 @@
       "Title Key": "title"
     },
     "YAML Title Alias": {
-      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": true,
+      "Inserts the title of the file into the YAML frontmatter's aliases section. Gets the title from the first H1 or filename.": false,
       "Preserve existing aliases section style": true,
       "Keep alias that matches the filename": true,
       "Use the YAML key `linter-yaml-title-alias` to help with filename and heading changes": true
