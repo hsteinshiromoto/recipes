@@ -44,7 +44,7 @@
       "date-created": true,
       "date-created-key": "date created",
       "force-retention-of-create-value": false,
-      "date-modified": true,
+      "date-modified": false,
       "date-modified-key": "date modified",
       "format": "dddd, Do MMMM YYYY, HH:mm:ss"
     },
@@ -214,6 +214,40 @@
     },
     "remove-multiple-blank-lines-on-paste": {
       "enabled": false
+    },
+    "format-yaml-array": {
+      "enabled": false,
+      "alias-key": true,
+      "tag-key": true,
+      "default-array-style": "single-line",
+      "default-array-keys": true,
+      "force-single-line-array-style": "",
+      "force-multi-line-array-style": ""
+    },
+    "move-tags-to-yaml": {
+      "enabled": false,
+      "how-to-handle-existing-tags": "Nothing",
+      "tags-to-ignore": ""
+    },
+    "auto-correct-common-misspellings": {
+      "enabled": false,
+      "ignore-words": ""
+    },
+    "blockquote-style": {
+      "enabled": false,
+      "style": "space"
+    },
+    "quote-style": {
+      "enabled": false,
+      "single-quote-enabled": true,
+      "single-quote-style": "''",
+      "double-quote-enabled": true,
+      "double-quote-style": "\"\""
+    },
+    "remove-space-before-or-after-characters": {
+      "enabled": false,
+      "characters-to-remove-space-before": ",!?;:).’”]",
+      "characters-to-remove-space-after": "¿¡‘“(["
     }
   },
   "lintOnSave": true,
