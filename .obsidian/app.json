@@ -1,5 +1,6 @@
 {
   "alwaysUpdateLinks": true,
   "showLineNumber": true,
-  "spellcheck": true
+  "spellcheck": true,
+  "propertiesInDocument": "source"
 }
