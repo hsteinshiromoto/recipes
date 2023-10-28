@@ -7,7 +7,7 @@ prepartion_time:
 status:
 title: Cooking Beans on Pressure Cooker
 date created: Saturday, 28th October 2023, 21:42:00
-date modified: Saturday, 28th October 2023, 21:58:42
+date modified: Saturday, 28th October 2023, 21:59:46
 ---
 
 # Cooking Beans on Pressure Cooker
@@ -138,3 +138,7 @@ I recommend letting the pressure release naturally for as long as you're able be
 5. Using and storing your beans:
 
 The beans can be strained and used right away, or cooled and stored in their cooking liquid. They will keep for up to a week refrigerated or up to 3 months in the freezer.
+
+## References
+
+https://www.simplyrecipes.com/recipes/how_to_make_fast_no_soak_beans_in_the_pressure_cooker/
