@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "Cooking Beans on Pressure Cooker",
+      "path": "Cooking Beans on Pressure Cooker.md"
+    },
+    {
       "basename": "Salmon, Fetta, and Spinach Pasta",
       "path": "Salmon, Fetta, and Spinach Pasta.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rice Vinegar",
       "path": "Ingredients/Rice Vinegar.md"
-    },
-    {
-      "basename": "Honey",
-      "path": "Ingredients/Honey.md"
     }
   ],
   "omittedPaths": [],
