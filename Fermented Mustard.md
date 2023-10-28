@@ -1,0 +1,5 @@
+- 1 cup white mustard 
+- 1 cup balcony mustard
+- 2 cups water
+- 1 tbsp of salt
+- Add vinegar to low ph
