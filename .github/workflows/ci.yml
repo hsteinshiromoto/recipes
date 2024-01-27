@@ -19,6 +19,9 @@ jobs:
   build_docker_image:
     name: Build docker image
     runs-on: ubuntu-latest
+    permissions:
+        contents: read
+        packages: write
     outputs:
         docker: ${{ steps.changed_files.outputs.build_image }}
 
