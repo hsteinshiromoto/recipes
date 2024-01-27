@@ -87,3 +87,20 @@ ENV PATH="${PATH}:$HOME/.local/bin"
 
 # Need for Pytest
 ENV PATH="${PATH}:${PYENV_ROOT}/versions/$PYTHON_VERSION/bin"
+
+# ---
+# Install Quartz
+# ---
+RUN cd /usr/local \
+    && git clone https://github.com/jackyzha0/quartz.git \
+    && cd quartz
+RUN npm i
+RUN npx quartz create
+
+# add your repository
+RUN git remote add origin https://github.com/hsteinshiromoto/recipes.git
+ 
+# track the main quartz repository for updates
+RUN git remote add upstream https://github.com/jackyzha0/quartz.git
+
+RUN npx quartz sync --no-pull
