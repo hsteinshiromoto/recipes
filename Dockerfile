@@ -92,10 +92,8 @@ ENV PATH="${PATH}:${PYENV_ROOT}/versions/$PYTHON_VERSION/bin"
 # Install Quartz
 # ---
 RUN cd /usr/local \
-    && git clone https://github.com/jackyzha0/quartz.git \
-    && cd quartz
-RUN npm i
-RUN npx quartz create
+    && git clone https://github.com/jackyzha0/quartz.git
+RUN cd /usr/local/quartz && npm i && npx quartz create
 
 # add your repository
 RUN git remote add origin https://github.com/hsteinshiromoto/recipes.git
