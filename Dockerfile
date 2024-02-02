@@ -65,9 +65,9 @@ RUN pyenv install $PYTHON_VERSION && pyenv global $PYTHON_VERSION
 # RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 # RUN nvm install stable
 
-RUN curl -s https://deb.nodesource.com/setup_19.x | bash
+RUN curl -fsSL https://deb.nodesource.com/setup_21.x | bash -
 RUN apt-get update && \
-    apt-get install -y nodejs npm
+    apt-get install -y nodejs
 
 # ---
 # Uncomment this Section to Install Additional Debian Packages
