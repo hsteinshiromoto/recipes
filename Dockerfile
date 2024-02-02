@@ -59,11 +59,8 @@ ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${PATH}"
 RUN pyenv install $PYTHON_VERSION && pyenv global $PYTHON_VERSION
 
 # ---
-# Install Node Version Manager
+# Install NodeJS
 # ---
-
-# RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
-# RUN nvm install stable
 
 RUN curl -fsSL https://deb.nodesource.com/setup_21.x | bash -
 RUN apt-get update && \
