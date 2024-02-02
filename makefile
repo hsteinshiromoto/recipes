@@ -17,7 +17,7 @@ DOCKER_REPOSITORY_USER=hsteinshiromoto
 DOCKER_REPOSITORY=ghcr.io
 DOCKER_IMAGE_NAME=${DOCKER_REPOSITORY}/${DOCKER_REPOSITORY_USER}/${PROJECT_NAME}/${PROJECT_NAME}
 DOCKER_TAG=$(shell git ls-files -s Dockerfile | awk '{print $$2}' | cut -c1-16)
-DOCKER_PARENT_IMAGE=debian:latest
+DOCKER_PARENT_IMAGE=ubuntu:latest
 
 BUILD_DATE=$(shell date +%Y%m%d-%H:%M:%S)
 PYTHON_VERSION="3.12"
