@@ -45,7 +45,7 @@ WORKDIR $HOME
 RUN apt-get update && \
     apt-get install -y build-essential libssl-dev zlib1g-dev \
     libbz2-dev libreadline-dev libsqlite3-dev curl llvm \
-    libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev git nodejs npm && \
+    libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev git && \
     apt-get clean
 
 RUN git clone --depth=1 https://github.com/pyenv/pyenv.git $HOME/.pyenv
@@ -56,6 +56,13 @@ ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${PATH}"
 # Install Python and set the correct version
 # ---
 RUN pyenv install $PYTHON_VERSION && pyenv global $PYTHON_VERSION
+
+# ---
+# Install Node Version Manager
+# ---
+
+RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash && \
+    nvm install 19
 
 # ---
 # Uncomment this Section to Install Additional Debian Packages
