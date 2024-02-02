@@ -61,9 +61,8 @@ RUN pyenv install $PYTHON_VERSION && pyenv global $PYTHON_VERSION
 # Install Node Version Manager
 # ---
 
-RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash && \
-    source ~/.bashrc && \
-    nvm install stable
+RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+RUN source ~/.bashrc && nvm install stable
 
 # ---
 # Uncomment this Section to Install Additional Debian Packages
