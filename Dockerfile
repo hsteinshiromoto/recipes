@@ -105,11 +105,3 @@ RUN cd /usr/local \
     && cd quartz \
     && npm i \
     && npx quartz create
-
-# add your repository
-RUN git remote add origin https://github.com/hsteinshiromoto/recipes.git
- 
-# track the main quartz repository for updates
-RUN git remote add upstream https://github.com/jackyzha0/quartz.git
-
-RUN npx quartz sync --no-pull
