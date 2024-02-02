@@ -65,7 +65,7 @@ RUN pyenv install $PYTHON_VERSION && pyenv global $PYTHON_VERSION
 # RUN curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
 # RUN nvm install stable
 
-RUN curl -s https://deb.nodesource.com/setup_19.x | sudo bash
+RUN curl -s https://deb.nodesource.com/setup_19.x | bash
 RUN apt-get update && \
     apt-get install -y nodejs npm
 
