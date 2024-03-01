@@ -1,0 +1,71 @@
+name: CI
+
+on:
+  push:
+    # Publish `master` as Docker `latest` image.
+    branches:
+      - "feature/*"
+      - "bugfix/*"
+      - "hotfix/*"
+      - "release/*"
+
+env:
+  # TODO: Change variable to your image's name.
+  IMAGE_NAME: recipes
+
+jobs:
+  # Run tests.
+  # See also https://docs.docker.com/docker-hub/builds/automated-testing/
+  build_docker_image:
+    name: Build docker image
+    runs-on: ubuntu-latest
+    permissions:
+        contents: read
+        packages: write
+    outputs:
+        docker: ${{ steps.changed_files.outputs.build_image }}
+
+    steps:
+        - uses: actions/checkout@v3
+
+        - name: Detecting file changes
+          uses: dorny/paths-filter@v2
+          id: changed_files
+          with:
+            base: dev
+            filters: |
+                build_image:
+                - 'Dockerfile'
+                - 'Makefile'
+                # - 'poetry.lock'
+                # - 'pyproject.toml'
+                # - 'requirements.txt'
+                - '.github/workflows/ci.yml'
+
+        - name: Log into registry
+          if: steps.changed_files.outputs.build_image == 'true'
+          run: echo "${{ secrets.GITHUB_TOKEN }}" | docker login ghcr.io -u ${{ github.actor }} --password-stdin
+
+        - name: Build docker image if it is not on registry
+          if: steps.changed_files.outputs.build_image == 'true'
+          run: make image
+
+        - name: Push image to Github Registry
+          if: steps.changed_files.outputs.build_image == 'true'
+          run: |
+            IMAGE_ID=ghcr.io/${{ github.repository }}/$IMAGE_NAME
+
+            # Change all uppercase to lowercase
+            IMAGE_ID=$(echo $IMAGE_ID | tr '[A-Z]' '[a-z]')
+
+            # Strip git ref prefix from version
+            VERSION=$(git ls-files -s Dockerfile | awk '{print $2}' | cut -c1-16)
+
+            echo IMAGE_ID=$IMAGE_ID
+            echo VERSION=$VERSION
+            echo IMAGE_NAME=$IMAGE_NAME
+
+            docker push $IMAGE_ID:$VERSION
+
+            docker tag $IMAGE_ID:$VERSION $IMAGE_ID:latest
+            docker push $IMAGE_ID:latest
