@@ -34,6 +34,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 
 # Create the "home" folder
 RUN mkdir -p $HOME
+COPY . $HOME
 WORKDIR $HOME
 
 # ---
@@ -100,8 +101,8 @@ ENV PATH="${PATH}:${PYENV_ROOT}/versions/$PYTHON_VERSION/bin"
 # ---
 # Install Quartz
 # ---
-# RUN cd /usr/local \
-#     && git clone https://github.com/jackyzha0/quartz.git \
-#     && cd quartz \
-#     && npm i \
-#     && npx quartz create
+RUN cd $HOME \
+    && git clone https://github.com/jackyzha0/quartz.git \
+    && cd quartz \
+    && npm i
+    # && npx quartz create
