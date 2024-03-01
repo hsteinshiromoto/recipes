@@ -34,6 +34,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 
 # Create the "home" folder
 RUN mkdir -p $HOME
+COPY . $HOME
 WORKDIR $HOME
 
 # ---
