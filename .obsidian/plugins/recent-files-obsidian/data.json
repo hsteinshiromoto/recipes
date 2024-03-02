@@ -1,6 +1,10 @@
 {
   "recentFiles": [
     {
+      "basename": "index",
+      "path": "index.md"
+    },
+    {
       "basename": "Cooking Beans on Pressure Cooker",
       "path": "Cooking Beans on Pressure Cooker.md"
     },
@@ -195,10 +199,6 @@
     {
       "basename": "Rice",
       "path": "Ingredients/Rice.md"
-    },
-    {
-      "basename": "Rice Vinegar",
-      "path": "Ingredients/Rice Vinegar.md"
     }
   ],
   "omittedPaths": [],

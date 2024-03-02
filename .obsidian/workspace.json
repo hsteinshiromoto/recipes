@@ -65,7 +65,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Cooking Beans on Pressure Cooker.md",
+                "file": "index.md",
                 "mode": "source",
                 "backlinks": true,
                 "source": false
@@ -135,8 +135,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 3
+        ]
       }
     ],
     "direction": "horizontal",
@@ -156,7 +155,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Cooking Beans on Pressure Cooker.md",
+                "file": "index.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -173,7 +172,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Cooking Beans on Pressure Cooker.md",
+                "file": "index.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": false
               }
@@ -196,7 +195,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Cooking Beans on Pressure Cooker.md"
+                "file": "index.md"
               }
             }
           },
@@ -263,10 +262,10 @@
   },
   "active": "a38c6933c137b36a",
   "lastOpenFiles": [
+    "Cooking Beans on Pressure Cooker.md",
     "Fermented Mustard.md",
     "Instant Pot Beans .md",
     "Salmon, Fetta, and Spinach Pasta.md",
-    "Cooking Beans on Pressure Cooker.md",
     "Pad Thai.md",
     "White Cuban.md",
     "Curau de Milho.md",
