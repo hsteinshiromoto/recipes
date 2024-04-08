@@ -792,3 +792,4 @@ $RECYCLE.BIN/
 # Specify filepatterns you want git to ignore.
 
 *.DS_Store
+.obsidian/plugins/recent-files-obsidian/data.json
