@@ -15,7 +15,7 @@ def generate_index_markdown(folder_path: Path=PROJECT_ROOT):
 
             if file.name in ('index.md', 'README.md'):
                 continue
-            index_file.write(f"- [[{file.name}]]\n")
+            index_file.write(f"- [[{file.stem}]]\n")
 
 if __name__ == '__main__':
     generate_index_markdown()
