@@ -1,24 +1,35 @@
----
-alias: 
-tags: 
-status:
-date created: Friday, 1st March 2024, 22:33:58
----
+# Index
 
-# Recipe Book
+## Recipes
 
-## Recipe Index
-
-```dataview
-LIST
-FROM -"Ingredients" AND -"Equipments" AND -"_meta_" AND -"index" AND -"README"
-SORT file.name ASC
-```
-
-## Ingredient Index
-
-```dataview
-LIST
-FROM "Ingredients"
-SORT file.name ASC
-```
+- [[Cheesy Bean and Tomato Bake.md]]
+- [[Pizza Dough.md]]
+- [[Tuna Poke Bowl.md]]
+- [[Scallion Noodles.md]]
+- [[The Best Crispy Roast Potatoes Ever Recipe.md]]
+- [[Pad Thai.md]]
+- [[White Cuban.md]]
+- [[Black Forest Terrine.md]]
+- [[Sweet and Spicy Steak Rice Bowl.md]]
+- [[Chana Masala.md]]
+- [[Thai Basil Chicken Stir Fry.md]]
+- [[Dessert Terrine.md]]
+- [[Prik Nam Pla.md]]
+- [[Cooking Beans on Pressure Cooker.md]]
+- [[Coffee Syrup.md]]
+- [[Cantonese Chow Mein.md]]
+- [[Fermented Mustard.md]]
+- [[Salmon, Fetta, and Spinach Pasta.md]]
+- [[Peanut Butter Mousse Crunch Cake.md]]
+- [[Pho.md]]
+- [[Rice on Instant Pot.md]]
+- [[Tomatoes with smoky and salty feta cheese.md]]
+- [[Curau de Milho.md]]
+- [[Chinese Pan Fried Protein.md]]
+- [[Tiramisu.md]]
+- [[Chicken Rice.md]]
+- [[French Terrine.md]]
+- [[Three Cheese Tomato Tart.md]]
+- [[What's the Difference Between Baking Powder and Baking Soda  Ask The Food Lab.md]]
+- [[Chinese Black Bean Garlic Sauce.md]]
+- [[Kebab White Sauce.md]]
