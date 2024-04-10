@@ -12,6 +12,7 @@ PROJECT_PATH := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 GIT_REMOTE=$(shell basename $(shell git remote get-url origin))
 PROJECT_NAME=$(shell echo $(GIT_REMOTE:.git=))
 CURRENT_VERSION=$(shell git tag -l --sort=-creatordate | head -n 1 | cut -d "v" -f2-)
+QUARTZ_PATH=/workspaces/quartz
 
 DOCKER_REPOSITORY_USER=hsteinshiromoto
 DOCKER_REPOSITORY=ghcr.io
@@ -26,17 +27,13 @@ PYTHON_VERSION="3.12"
 # Commands
 # ---
 
-## Build Python package
-build:
-	poetry build
+## Create index file
+index: 
+	python3 bin/make_index.py
 
-## Check package build
-check:
-	twine check dist/*
-
-## Publish to PyPI
-publish: 
-	poetry publish --username __token__ --password $PYPI_API_TOKEN
+## Publish to Webhost
+publish: index
+	cd ${QUARTZ_PATH} && npx quartz sync
 
 ## Build Docker app image
 image:
