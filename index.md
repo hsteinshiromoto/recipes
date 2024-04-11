@@ -7,8 +7,11 @@
 - [[Chana Masala]]
 - [[Cheesy Bean and Tomato Bake]]
 - [[Chicken Rice]]
+- [[Chilli Garlic Noodles]]
 - [[Chinese Black Bean Garlic Sauce]]
 - [[Chinese Pan Fried Protein]]
+- [[Chinese sausages]]
+- [[Chow mein noodles]]
 - [[Coffee Syrup]]
 - [[Cooking Beans on Pressure Cooker]]
 - [[Curau de Milho]]
@@ -16,6 +19,7 @@
 - [[Fermented Mustard]]
 - [[French Terrine]]
 - [[Kebab White Sauce]]
+- [[Laoganma Crispy Chilli Oil]]
 - [[Pad Thai]]
 - [[Peanut Butter Mousse Crunch Cake]]
 - [[Pho]]
@@ -33,6 +37,7 @@
 - [[Tuna Poke Bowl]]
 - [[What's the Difference Between Baking Powder and Baking Soda  Ask The Food Lab]]
 - [[White Cuban]]
+- [[chinese black vinegar]]
 
 
 ## Ingredients
