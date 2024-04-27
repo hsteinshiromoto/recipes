@@ -8,14 +8,14 @@ import * as Plugin from "./quartz/plugins"
  */
 const config: QuartzConfig = {
   configuration: {
-    pageTitle: "Zettelkasten",
+    pageTitle: "Recipes",
     enableSPA: true,
     enablePopovers: true,
     analytics: {
       provider: "plausible",
     },
     locale: "en-US",
-    baseUrl: "hsteinshiromoto.github.io/zettelkasten",
+    baseUrl: "hsteinshiromoto.github.io/recipes",
     ignorePatterns: ["_meta_", "_attachments_", ".obsidian"],
     defaultDateType: "created",
     theme: {
