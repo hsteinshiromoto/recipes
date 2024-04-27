@@ -29,6 +29,7 @@
 - [[Salmon, Fetta, and Spinach Pasta]]
 - [[Scallion Noodles]]
 - [[Sweet and Spicy Steak Rice Bowl]]
+- [[Tenderising Mince Beef Using BiCarb Soda]]
 - [[Thai Basil Chicken Stir Fry]]
 - [[The Best Crispy Roast Potatoes Ever Recipe]]
 - [[Three Cheese Tomato Tart]]
@@ -37,14 +38,17 @@
 - [[Tuna Poke Bowl]]
 - [[What's the Difference Between Baking Powder and Baking Soda  Ask The Food Lab]]
 - [[White Cuban]]
+- [[Why Baking Soda Is the Most Useful Ingredient in Your Kitchen]]
 - [[chinese black vinegar]]
 
 
 ## Ingredients
 
 - [[00 flour]]
+- [[Baking Soda]]
 - [[Basil]]
 - [[Beef Bone]]
+- [[Beef Mince]]
 - [[Black Cardamom]]
 - [[Bread flour]]
 - [[Carrot]]
@@ -101,7 +105,6 @@
 - [[allspice]]
 - [[bacon]]
 - [[baking powder]]
-- [[Baking Soda]]
 - [[bean sprouts]]
 - [[butter]]
 - [[cake flour]]
