@@ -101,7 +101,7 @@
 - [[allspice]]
 - [[bacon]]
 - [[baking powder]]
-- [[baking soda]]
+- [[Baking Soda]]
 - [[bean sprouts]]
 - [[butter]]
 - [[cake flour]]
