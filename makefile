@@ -32,7 +32,7 @@ index:
 	python3 bin/make_index.py
 
 ## Publish to Webhost
-publish: index
+public: index
 	cd ${QUARTZ_PATH} && npx quartz sync
 
 ## Build Docker app image
