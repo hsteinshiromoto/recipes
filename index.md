@@ -11,7 +11,6 @@
 - [[Chinese Black Bean Garlic Sauce]]
 - [[Chinese Pan Fried Protein]]
 - [[Chinese sausages]]
-- [[Chow mein noodles]]
 - [[Coffee Syrup]]
 - [[Cooking Beans on Pressure Cooker]]
 - [[Curau de Milho]]
@@ -40,7 +39,6 @@
 - [[What's the Difference Between Baking Powder and Baking Soda  Ask The Food Lab]]
 - [[White Cuban]]
 - [[Why Baking Soda Is the Most Useful Ingredient in Your Kitchen]]
-- [[chinese black vinegar]]
 
 
 ## Ingredients
@@ -58,6 +56,7 @@
 - [[Chicken Skin]]
 - [[Chicken Thigh]]
 - [[Chocolate]]
+- [[Chow mein noodles]]
 - [[Chuck Roast]]
 - [[Cilantro]]
 - [[Cinnamon]]
@@ -113,6 +112,7 @@
 - [[cherry liquor]]
 - [[chicken bouillon powder]]
 - [[chicken breast]]
+- [[chinese black vinegar]]
 - [[chives]]
 - [[clove]]
 - [[coriander seed]]
