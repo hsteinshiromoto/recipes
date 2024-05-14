@@ -112,3 +112,6 @@ RUN cd /usr/local/quartz && \
     git remote add origin git@github.com:hsteinshiromoto/recipes.git
 
 RUN cp $HOME/.config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
+
+CMD ["-f","/dev/null"]
+ENTRYPOINT ["tail"]
