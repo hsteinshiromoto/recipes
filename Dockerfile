@@ -34,7 +34,7 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 
 # Create the "home" folder
 RUN mkdir -p $HOME
-COPY . $HOME
+COPY .config/quartz/.github/workflows/deploy.yml /usr/local/
 WORKDIR $HOME
 
 # ---
@@ -111,7 +111,7 @@ RUN cd /usr/local/quartz && \
     git remote rm origin && \
     git remote add origin git@github.com:hsteinshiromoto/recipes.git
 
-RUN cp $HOME/.config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
+RUN cp /usr/local/deploy.yml /usr/local/quartz/.github/workflows/
 
 CMD ["-f","/dev/null"]
 ENTRYPOINT ["tail"]
