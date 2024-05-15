@@ -54,7 +54,7 @@ RUN rm -rf /var/lib/apt/lists/*; \
 # ---
 # Configure home folder
 # ---
-RUN useradd -d /home/$PROJECT_NAME -m $PROJECT_NAME
+RUN mkdir -p $HOME
 WORKDIR $HOME
 
 COPY bin/entrypoint.sh  /usr/local/bin/
