@@ -32,10 +32,33 @@ RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 LABEL org.label-schema.build-date=$BUILD_DATE \
     maintainer="hsteinshiromoto@gmail.com"
 
-# Create the "home" folder
-RUN mkdir -p $HOME
-COPY .config/quartz/.github/workflows/deploy.yml /usr/local/
+# Install pyenv and gosu dependencies
+RUN apt-get update && \
+    apt-get install -y wget build-essential libssl-dev zlib1g-dev \
+    libbz2-dev libreadline-dev libsqlite3-dev curl llvm \
+    libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev sudo \
+    git gosu && \
+    apt-get clean
+
+# ---
+# Install gosu
+#
+# References:
+#   [1] https://github.com/tianon/gosu/blob/master/INSTALL.md
+#   [2] https://stackoverflow.com/questions/45696676/set-docker-image-username-at-container-creation-time
+# ---
+
+RUN rm -rf /var/lib/apt/lists/*; \
+    gosu nobody true
+
+# ---
+# Configure home folder
+# ---
+RUN useradd -d /home/$PROJECT_NAME -m $PROJECT_NAME
 WORKDIR $HOME
+
+COPY bin/entrypoint.sh  /usr/local/bin/
+RUN chmod +x /usr/local/bin/entrypoint.sh
 
 # ---
 # Install pyenv
@@ -43,13 +66,6 @@ WORKDIR $HOME
 # References:
 #   [1] https://stackoverflow.com/questions/65768775/how-do-i-integrate-pyenv-poetry-and-docker
 # ---
-# Install pyenv dependencies
-RUN apt-get update && \
-    apt-get install -y build-essential libssl-dev zlib1g-dev \
-    libbz2-dev libreadline-dev libsqlite3-dev curl llvm \
-    libncursesw5-dev xz-utils tk-dev libxml2-dev libxmlsec1-dev libffi-dev liblzma-dev git && \
-    apt-get clean
-
 RUN git clone --depth=1 https://github.com/pyenv/pyenv.git $HOME/.pyenv
 ENV PYENV_ROOT="${HOME}/.pyenv"
 ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${PATH}"
@@ -60,29 +76,8 @@ ENV PATH="${PYENV_ROOT}/shims:${PYENV_ROOT}/bin:${PATH}"
 RUN pyenv install $PYTHON_VERSION && pyenv global $PYTHON_VERSION
 
 # ---
-# Install NodeJS
-# ---
-
-RUN curl -fsSL https://deb.nodesource.com/setup_21.x | bash -
-RUN apt-get update && \
-    apt-get install -y nodejs
-
-# ---
-# Uncomment this Section to Install Additional Debian Packages
-# ---
-
-# COPY debian-requirements.txt /usr/local/debian-requirements.txt
-
-# RUN apt-get update && \
-#     DEBIAN_PACKAGES=$(egrep -v "^\s*(#|$)" /usr/local/debian-requirements.txt) && \
-#     apt-get install -y $DEBIAN_PACKAGES && \
-#     apt-get clean
-
-# ---
 # Copy Container Setup Scripts
 # ---
-# COPY pyproject.toml /usr/local/pyproject.toml
-# COPY poetry.lock /usr/local/poetry.lock # Uncomment this line to include poetry.lock
 
 # Get poetry
 RUN curl -sSL https://install.python-poetry.org | python3 -
@@ -101,11 +96,17 @@ ENV PATH="${PATH}:${PYENV_ROOT}/versions/$PYTHON_VERSION/bin"
 # ---
 # Install Quartz
 # ---
+RUN curl -s https://deb.nodesource.com/setup_22.x | sudo -E bash -
+RUN apt-get update && \
+    apt-get install -y nodejs
+
 RUN cd /usr/local \
     && git clone https://github.com/jackyzha0/quartz.git \
     && cd quartz \
     && npm i
     # && npx quartz create
+
+COPY .config/quartz/.github/workflows/deploy.yml /usr/local/
 
 RUN cd /usr/local/quartz && \
     git remote rm origin && \
@@ -113,5 +114,5 @@ RUN cd /usr/local/quartz && \
 
 RUN cp /usr/local/deploy.yml /usr/local/quartz/.github/workflows/
 
-CMD ["-f","/dev/null"]
-ENTRYPOINT ["tail"]
+ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+CMD ["tail", "-f","/dev/null"]
