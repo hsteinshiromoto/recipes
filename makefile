@@ -57,9 +57,7 @@ pull:
 ## Run container
 run:
 	$(eval DOCKER_IMAGE_TAG=${DOCKER_IMAGE_NAME}:${DOCKER_TAG})
-	docker run -e uid=$(shell $UID) -v ${PROJECT_PATH}:/home/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
-	
-
+	docker run -e uid=$(shell id -u) -v ${PROJECT_PATH}:/home/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
 
 ## Get CI files from template
 ci:
