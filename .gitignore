@@ -2,6 +2,8 @@
 # Created by https://www.toptal.com/developers/gitignore/api/python,latex,macos,linux,pycharm,visualstudiocode,jupyternotebooks,tex,windows,dbeaver
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,latex,macos,linux,pycharm,visualstudiocode,jupyternotebooks,tex,windows,dbeaver
 
+.bash_history
+
 ## Obsidian ##
 
 .obsidian/plugins/recent-files-obsidiian/data.json
