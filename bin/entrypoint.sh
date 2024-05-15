@@ -1,27 +1,24 @@
 #!/bin/bash
+set -e
 
-set -x
-# get uid/gid
-USER_UID=`ls -nd /home/recipes | cut -f3 -d' '`
-USER_GID=`ls -nd /home/recipes | cut -f4 -d' '`
+PROJECT_NAME=$(basename $(pwd))
+ 
+# If "-e uid={custom/local user id}" flag is not set for "docker run" command, use 9999 as default
+CURRENT_UID=${uid:-9999}
+ 
+# Notify user about the UID selected
+echo "Current UID : $CURRENT_UID"
 
-# get the current uid/gid of recipes
-CUR_UID=`getent passwd recipes | cut -f3 -d: || true`
-CUR_GID=`getent group recipes | cut -f3 -d: || true`
+# Create user called "docker" with selected UID
+useradd --shell /bin/bash -u $CURRENT_UID -o -c "" -m ${PROJECT_NAME}
 
-# if they don't match, adjust
-if [ ! -z "$USER_GID" -a "$USER_GID" != "$CUR_GID" ]; then
-    groupmod -g ${USER_GID} recipes
-fi
-if [ ! -z "$USER_UID" -a "$USER_UID" != "$CUR_UID" ]; then
-    usermod -u ${USER_UID} recipes
-    # fix other permissions
-    find / -uid ${CUR_UID} -mount -exec chown ${USER_UID}.${USER_GID} {} \;
-fi
+# Set "HOME" ENV variable for user's home directory, uncomment in case it has not been set yet
+# export HOME=/home/docker
+ 
+# Execute process
+exec gosu ${PROJECT_NAME} "$@"
 
-
-# drop access to recipes and run cmd
-exec gosu recipes "$@"
+# Note that, because gosu is installed via apt-get we only need to run using gosu
 
 # ---
 # References
