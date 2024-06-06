@@ -1,4 +1,11 @@
-## GATHER YOUR INGREDIENTS
+---
+alias: 
+tags: 
+status:
+date created: Monday, 4th March 2024, 21:28:37
+---
+
+# GATHER YOUR INGREDIENTS
 
 1 small red onion, quartered, divided10 sprigs fresh cilantro, stems and leaves separated1 (1½-inch) piece ginger, peeled and chopped coarse2 garlic cloves, chopped coarse2 serrano chiles, stemmed, halved, seeded, and sliced thin crosswise, divided3 tablespoons 1 (14.5-ounce) can 1 teaspoon Kashmiri chile powder
 
@@ -6,7 +13,7 @@
 
 \*
 
-## BEFORE YOU BEGIN
+# BEFORE YOU BEGIN
 
 Because the sodium contents of canned chickpeas and tomatoes vary, we include only a small amount of salt in this recipe; season with additional salt at the end of cooking if needed. If you prefer a spicier chana masala, leave the seeds in the serrano chiles. Kashmiri chile powder should have a brilliant red hue, a fruity flavor, and a slightly tannic edge, but very little heat. If you can’t find it, substitute 1 teaspoon paprika. This dish is often paired with bhature, deep-fried breads that puff up as they cook; alternatively, serve it with rice or naan.
 

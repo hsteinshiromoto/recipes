@@ -15,11 +15,16 @@
   "enable_folder_templates": true,
   "folder_templates": [
     {
-      "folder": "_meta_/_templates_",
+      "folder": "/",
       "template": "_meta_/_templates_/Recipe.md"
+    },
+    {
+      "folder": "Ingredients",
+      "template": "_meta_/_templates_/Ingredient.md"
     }
   ],
   "syntax_highlighting": true,
+  "syntax_highlighting_mobile": false,
   "enabled_templates_hotkeys": [
     "_meta_/_templates_/Recipe.md"
   ],

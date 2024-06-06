@@ -12,12 +12,13 @@ PROJECT_PATH := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 GIT_REMOTE=$(shell basename $(shell git remote get-url origin))
 PROJECT_NAME=$(shell echo $(GIT_REMOTE:.git=))
 CURRENT_VERSION=$(shell git tag -l --sort=-creatordate | head -n 1 | cut -d "v" -f2-)
+QUARTZ_PATH=/usr/local/quartz
 
 DOCKER_REPOSITORY_USER=hsteinshiromoto
 DOCKER_REPOSITORY=ghcr.io
 DOCKER_IMAGE_NAME=${DOCKER_REPOSITORY}/${DOCKER_REPOSITORY_USER}/${PROJECT_NAME}/${PROJECT_NAME}
 DOCKER_TAG=$(shell git ls-files -s Dockerfile | awk '{print $$2}' | cut -c1-16)
-DOCKER_PARENT_IMAGE=ubuntu:latest
+DOCKER_PARENT_IMAGE=ubuntu:22.04
 
 BUILD_DATE=$(shell date +%Y%m%d-%H:%M:%S)
 PYTHON_VERSION="3.12"
@@ -26,17 +27,13 @@ PYTHON_VERSION="3.12"
 # Commands
 # ---
 
-## Build Python package
-build:
-	poetry build
+## Create index file
+index: 
+	python3 bin/make_index.py
 
-## Check package build
-check:
-	twine check dist/*
-
-## Publish to PyPI
-publish: 
-	poetry publish --username __token__ --password $PYPI_API_TOKEN
+## Publish to Webhost
+public: index
+	cd ${QUARTZ_PATH} && npx quartz sync
 
 ## Build Docker app image
 image:
@@ -57,12 +54,10 @@ pull:
 
 	docker pull ${DOCKER_IMAGE_TAG}
 
-## Creates repository structure
-structure:
-# Usage: make structure r=repository_type
-	@echo "Creating repository structure for $(r)"
-	python3 bin/make_repository_structure.py -r=$(r)
-
+## Run container
+run:
+	$(eval DOCKER_IMAGE_TAG=${DOCKER_IMAGE_NAME}:${DOCKER_TAG})
+	docker run -e uid=$(shell id -u) -v ${PROJECT_PATH}:/home/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
 
 ## Get CI files from template
 ci:

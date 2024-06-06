@@ -8,7 +8,7 @@ status:
 # {{title}}
 
 ## Ingredients
-
+- [ ] 
 ## Equipment
 
 ## Instructions
