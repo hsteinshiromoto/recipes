@@ -3,7 +3,9 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python,latex,macos,linux,pycharm,visualstudiocode,jupyternotebooks,tex,windows,dbeaver
 
 .bash_history
-
+.npm
+.ssh
+.lesshst
 ## Obsidian ##
 
 .obsidian/plugins/recent-files-obsidiian/data.json
