@@ -60,6 +60,10 @@ npx quartz sync --no-pull
 ```bash
 npx quartz sync
 ```
+### 6. Serve locally with
+```bash
+npx quartz build --serve
+```
 
 ## Updating Site with New Notes
 
