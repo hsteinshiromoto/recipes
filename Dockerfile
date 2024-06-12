@@ -106,13 +106,12 @@ RUN cd /usr/local \
     && npm i
     # && npx quartz create
 
-COPY .config/quartz/.github/workflows/deploy.yml /usr/local/
-
 RUN cd /usr/local/quartz && \
     git remote rm origin && \
     git remote add origin git@github.com:hsteinshiromoto/recipes.git
 
-RUN cp /usr/local/deploy.yml /usr/local/quartz/.github/workflows/
+COPY .config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
+COPY .config/quartz/quartz.config.ts /usr/local/quartz/
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 CMD ["tail", "-f","/dev/null"]
