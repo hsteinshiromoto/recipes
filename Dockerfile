@@ -2,7 +2,7 @@
 # Build arguments
 # ---
 ARG DOCKER_PARENT_IMAGE
-FROM $DOCKER_PARENT_IMAGE
+FROM --platform=linux/amd64 $DOCKER_PARENT_IMAGE
 
 # NB: Arguments should come after FROM otherwise they're deleted
 ARG BUILD_DATE
