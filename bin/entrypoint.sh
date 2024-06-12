@@ -1,8 +1,7 @@
 #!/bin/bash
 set -e
 
-PROJECT_NAME=$(basename $(pwd))
- 
+PROJECT_NAME=recipes 
 # If "-e uid={custom/local user id}" flag is not set for "docker run" command, use 9999 as default
 CURRENT_UID=${uid:-9999}
  
