@@ -113,5 +113,7 @@ RUN cd /usr/local/quartz && \
 COPY .config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
 COPY .config/quartz/quartz.config.ts /usr/local/quartz/
 
+EXPOSE 8080
+
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 CMD ["tail", "-f","/dev/null"]
