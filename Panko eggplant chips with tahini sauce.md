@@ -1,27 +1,19 @@
 ---
 created: 2024-03-22T11:54:23 (UTC +11:00)
-tags: []moz-extension://965766ed-1cab-4151-b2fe-60760aaf8e46/popup/popup.html#
+tags: 
 source: https://www.sbs.com.au/food/the-cook-up-with-adam-liaw/recipe/panko-eggplant-chips-tahini-sauce/w6j9mabrb?dlb=[2024/03/22]%20del_fd_bau_02&did=DM34923&cid=food:edm:acfood:relation:foodedm:na:na
 author: 
 ---
 
 # Panko eggplant chips & tahini sauce | SBS The Cook Up with Adam Liaw
 
-> ## Excerpt
-> These panko-crumbed eggplant chips are a wonderful alternative to their potato counterpart. Seasoned with paprika and cumin and paired with a garlicky tahini sauce for dipping, these eggplant chips are sure to be a new favourite.
 
----
-[
-
-## Stream free On Demand
 
 ![Thumbnail of Crispy Bites](https://image.pr.sbsod.com/7948add3-afa2-5892-b263-45de663a464b?crop=true&width=400&height=225&type=webp&imwidth=600)
 
 
 
 
-
-](https://www.sbs.com.au/ondemand/tv-series/the-cook-up-with-adam-liaw/season-6/the-cook-up-with-adam-liaw-s6-ep16/2312012867897)
 
 ## Ingredients
 
@@ -70,14 +62,3 @@ _Photography by Jiwon Kim._
 
 Oven temperatures are for conventional; if using fan-forced (convection), reduce the temperature by 20˚C. | We use Australian tablespoons and cups: 1 teaspoon equals 5 ml; 1 tablespoon equals 20 ml; 1 cup equals 250 ml. | All herbs are fresh (unless specified) and cups are lightly packed. | All vegetables are medium size and peeled, unless specified. | All eggs are 55-60 g, unless specified.
 
-[
-
-## Stream free On Demand
-
-![Thumbnail of Crispy Bites](https://image.pr.sbsod.com/7948add3-afa2-5892-b263-45de663a464b?crop=true&width=400&height=225&type=webp&imwidth=600)
-
-
-
-
-
-](https://www.sbs.com.au/ondemand/tv-series/the-cook-up-with-adam-liaw/season-6/the-cook-up-with-adam-liaw-s6-ep16/2312012867897)
