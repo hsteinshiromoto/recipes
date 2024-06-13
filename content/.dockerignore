@@ -1,0 +1,8 @@
+# ignore .git and .cache folders
+.devcontainer
+.git
+.github
+.cache
+.vscode
+Makefile
+*.code-workspace
