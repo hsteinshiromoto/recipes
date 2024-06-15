@@ -9,7 +9,7 @@ CURRENT_UID=${uid:-9999}
 echo "Current UID : $CURRENT_UID"
 
 # Create user called "docker" with selected UID
-useradd --shell /bin/bash -u $CURRENT_UID -o -c "" -m ${PROJECT_NAME}
+adduser -H -D -s /bin/bash -u $CURRENT_UID ${PROJECT_NAME}
 
 # Set "HOME" ENV variable for user's home directory, uncomment in case it has not been set yet
 # export HOME=/home/docker
