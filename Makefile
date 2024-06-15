@@ -45,6 +45,10 @@ image:
 				-t ${DOCKER_IMAGE_TAG} .
 	@echo "Done"
 
+	@echo "Adding latest tag ..."
+	docker tag ${DOCKER_IMAGE_TAG} ${DOCKER_IMAGE_NAME}:latest
+	@echo "Done"
+
 
 ## Pull latest image from repository
 pull:
