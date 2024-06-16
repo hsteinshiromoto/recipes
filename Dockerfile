@@ -26,7 +26,19 @@ ENV PYTHONPATH=$HOME
 LABEL org.label-schema.build-date=$BUILD_DATE \
     maintainer="hsteinshiromoto@gmail.com"
 
-RUN apk add --update npm bash zsh git neovim
+# ---
+# Configure home folder
+#
+# This must be configured before installing packaged in the Docker image
+# ---
+RUN mkdir -p $HOME
+WORKDIR $HOME
+
+COPY bin/entrypoint.sh  /usr/local/bin/
+RUN chmod +x /usr/local/bin/entrypoint.sh
+    
+
+RUN apk add --update ansible npm bash zsh git neovim
 
 SHELL ["/bin/bash", "-c"]
 ENV SHELL=/bin/bash
@@ -66,15 +78,6 @@ RUN set -eux; \
     gosu nobody true
 
 # ---
-# Configure home folder
-# ---
-RUN mkdir -p $HOME
-WORKDIR $HOME
-
-COPY bin/entrypoint.sh  /usr/local/bin/
-RUN chmod +x /usr/local/bin/entrypoint.sh
-
-# ---
 # Install Quartz
 # ---
 RUN cd /usr/local \
@@ -90,6 +93,14 @@ RUN cd /usr/local/quartz && \
 COPY .config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
 COPY .config/quartz/quartz.config.ts /usr/local/quartz/
 
+RUN mkdir -p $HOME/dotfiles && \
+    git clone https://github.com/hsteinshiromoto/dotfiles.linux.git $HOME/dotfiles
+
+ENV PATH="$HOME/.cargo/bin:${PATH}"
+
+RUN ansible-playbook $HOME/dotfiles/packages.yml
+RUN ansible-playbook $HOME/dotfiles/dotfiles.yml
+  
 EXPOSE 8080
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
