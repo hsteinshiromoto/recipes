@@ -19,7 +19,7 @@ ENV LANG=C.UTF-8 \
     LC_ALL=C.UTF-8
 ENV TZ Australia/Sydney
 ENV PROJECT_NAME=$PROJECT_NAME
-ENV HOME=/home/$PROJECT_NAME
+ENV HOME=/home/user
 ENV PYTHON_VERSION=$PYTHON_VERSION
 ENV PYTHONPATH=$HOME
 
@@ -32,16 +32,33 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 # This must be configured before installing packaged in the Docker image
 # ---
 RUN mkdir -p $HOME
+RUN cd $HOME && mkdir -p $PROJECT_NAME
 WORKDIR $HOME
 
+# ---
+# Copy necessary files for container to run
+# ---
 COPY bin/entrypoint.sh  /usr/local/bin/
 RUN chmod +x /usr/local/bin/entrypoint.sh
     
+# ---
+# Instal Dependencies
+# ---
+RUN apk add --update bash cargo curl git neovim npm rust stow zsh
 
-RUN apk add --update ansible npm bash zsh git neovim
-
+# ---
+# Define Shell
+# ---
 SHELL ["/bin/bash", "-c"]
 ENV SHELL=/bin/bash
+
+# ---
+# Copy dotfiles
+# ---
+RUN mkdir -p $HOME/dotfiles && \
+    git clone https://github.com/hsteinshiromoto/dotfiles.linux.git $HOME/dotfiles
+
+RUN cd $HOME/dotfiles && stow .
 
 # ---
 # Install Gosy
@@ -92,14 +109,6 @@ RUN cd /usr/local/quartz && \
 
 COPY .config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
 COPY .config/quartz/quartz.config.ts /usr/local/quartz/
-
-RUN mkdir -p $HOME/dotfiles && \
-    git clone https://github.com/hsteinshiromoto/dotfiles.linux.git $HOME/dotfiles
-
-ENV PATH="$HOME/.cargo/bin:${PATH}"
-
-RUN ansible-playbook $HOME/dotfiles/packages.yml
-RUN ansible-playbook $HOME/dotfiles/dotfiles.yml
   
 EXPOSE 8080
 
