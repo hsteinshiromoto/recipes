@@ -6,7 +6,7 @@ FROM --platform=linux/amd64 $DOCKER_PARENT_IMAGE
 
 # NB: Arguments should come after FROM otherwise they're deleted
 ARG BUILD_DATE
-
+ARG DOCKER_USER=user
 # Silence debconf
 ARG DEBIAN_FRONTEND=noninteractive
 
@@ -15,31 +15,22 @@ ARG PROJECT_NAME
 # ---
 # Enviroment variables
 # ---
+ENV DOCKER_USER=$DOCKER_USER
+ENV HOME=/home/$DOCKER_USER
 ENV LANG=C.UTF-8 \
     LC_ALL=C.UTF-8
 ENV TZ Australia/Sydney
 ENV PROJECT_NAME=$PROJECT_NAME
-ENV HOME=/home/user
-ENV PYTHON_VERSION=$PYTHON_VERSION
-ENV PYTHONPATH=$HOME
 
 LABEL org.label-schema.build-date=$BUILD_DATE \
     maintainer="hsteinshiromoto@gmail.com"
 
 # ---
-# Configure home folder
-#
-# This must be configured before installing packaged in the Docker image
+# Set user
 # ---
-RUN mkdir -p $HOME
-RUN cd $HOME && mkdir -p $PROJECT_NAME
-WORKDIR $HOME
+RUN addgroup "$DOCKER_USER" \
+    && adduser -D "$DOCKER_USER" -G "$DOCKER_USER"
 
-# ---
-# Copy necessary files for container to run
-# ---
-COPY bin/entrypoint.sh  /usr/local/bin/
-RUN chmod +x /usr/local/bin/entrypoint.sh
     
 # ---
 # Instal Dependencies
@@ -51,14 +42,6 @@ RUN apk add --update bash cargo curl git neovim npm rust stow zsh
 # ---
 SHELL ["/bin/bash", "-c"]
 ENV SHELL=/bin/bash
-
-# ---
-# Copy dotfiles
-# ---
-RUN mkdir -p $HOME/dotfiles && \
-    git clone https://github.com/hsteinshiromoto/dotfiles.linux.git $HOME/dotfiles
-
-RUN cd $HOME/dotfiles && stow .
 
 # ---
 # Install Gosy
@@ -95,22 +78,49 @@ RUN set -eux; \
     gosu nobody true
 
 # ---
+# Copy necessary files for container to run
+# ---
+COPY bin/entrypoint.sh  /usr/local/bin/
+RUN chmod 0755 /usr/local/bin/entrypoint.sh \
+    && sed "s/\$DOCKER_USER/$DOCKER_USER/g" -i /usr/local/bin/entrypoint.sh
+    
+# ---
+# Copy dotfiles
+# ---
+USER $DOCKER_USER
+RUN mkdir -p $HOME/dotfiles && \
+    git clone https://github.com/hsteinshiromoto/dotfiles.linux.git $HOME/dotfiles
+
+RUN cd $HOME/dotfiles && stow .
+
+# ---
+# Configure home folder
+#
+# This must be configured before installing packaged in the Docker image
+# ---
+RUN cd $HOME && mkdir -p $PROJECT_NAME
+RUN cd $HOME && mkdir -p .cache
+WORKDIR $HOME
+
+# ---
 # Install Quartz
 # ---
-RUN cd /usr/local \
+RUN cd $HOME \
     && git clone https://github.com/jackyzha0/quartz.git \
     && cd quartz \
     && npm i
     # && npx quartz create
 
-RUN cd /usr/local/quartz && \
+RUN cd $HOME/quartz && \
     git remote rm origin && \
     git remote add origin git@github.com:hsteinshiromoto/recipes.git
 
-COPY .config/quartz/.github/workflows/deploy.yml /usr/local/quartz/.github/workflows/
-COPY .config/quartz/quartz.config.ts /usr/local/quartz/
+COPY .config/quartz/.github/workflows/deploy.yml $HOME/quartz/.github/workflows/
+COPY .config/quartz/quartz.config.ts $HOME/quartz/
   
 EXPOSE 8080
+
+USER root 
 
 ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 CMD ["tail", "-f","/dev/null"]

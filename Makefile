@@ -59,7 +59,13 @@ pull:
 ## Run container
 run:
 	$(eval DOCKER_IMAGE_TAG=${DOCKER_IMAGE_NAME}:${DOCKER_TAG})
-	docker run -e uid=$(shell id -u) -v ${PROJECT_PATH}:/home/user/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
+	docker run --env UID=$(shell id -u) --env GID=$(shell id -g) -v ${PROJECT_PATH}:/home/user/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
+
+## Exec container
+exec:
+	$(eval DOCKER_IMAGE_TAG=${DOCKER_IMAGE_NAME}:${DOCKER_TAG})
+	docker exec --env UID=$(shell id -u) --env GID=$(shell id -g) -it ${DOCKER_IMAGE_TAG} /bin/bash
+
 
 ## Get CI files from template
 ci:
