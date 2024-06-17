@@ -117,7 +117,8 @@ RUN cd $HOME/quartz && \
 
 COPY .config/quartz/.github/workflows/deploy.yml $HOME/quartz/.github/workflows/
 COPY .config/quartz/quartz.config.ts $HOME/quartz/
-  
+COPY .config/nvim $HOME/.config/nvim
+
 EXPOSE 8080
 
 USER root 
