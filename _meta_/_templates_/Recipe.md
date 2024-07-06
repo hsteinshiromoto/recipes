@@ -1,10 +1,14 @@
 ---
 tags:
-serves:
-cooking_time:
-prepartion_time:
-status:
+alias:
 ---
+
+author:: 
+cooking_time:: [mins]
+preparation_time:: [mins]
+serves:: [int]
+source:: 
+status::
 # {{title}}
 
 ## Ingredients
@@ -12,3 +16,5 @@ status:
 ## Equipment
 
 ## Instructions
+
+## References
