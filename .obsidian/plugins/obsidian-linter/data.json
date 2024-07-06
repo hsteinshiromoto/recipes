@@ -56,8 +56,8 @@
     "yaml-title-alias": {
       "enabled": false,
       "preserve-existing-alias-section-style": true,
-      "keep-alias-that-matches-the-filename": true,
-      "use-yaml-key-to-keep-track-of-old-filename-or-heading": true
+      "keep-alias-that-matches-the-filename": false,
+      "use-yaml-key-to-keep-track-of-old-filename-or-heading": false
     },
     "capitalize-headings": {
       "enabled": true,
@@ -118,7 +118,7 @@
       "enabled": false
     },
     "remove-multiple-spaces": {
-      "enabled": false
+      "enabled": true
     },
     "strong-style": {
       "enabled": false,
@@ -230,7 +230,7 @@
       "tags-to-ignore": ""
     },
     "auto-correct-common-misspellings": {
-      "enabled": false,
+      "enabled": true,
       "ignore-words": ""
     },
     "blockquote-style": {
