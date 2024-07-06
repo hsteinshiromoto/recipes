@@ -9,7 +9,7 @@ date created: Saturday, 27th April 2024, 21:46:58
 
 ## Ingredients
 
-- 1 pound (500g) of [[Beef Mince|beef mince]]
+- 500g of [[Beef Mince|beef mince]]
 - 1/4 to 1/2 teaspoon of [[Baking Soda]]
 
 ## Instructions
