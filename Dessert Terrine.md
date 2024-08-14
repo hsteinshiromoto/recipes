@@ -17,7 +17,7 @@ status: done
 
 * 100g of [[Marie cracker]]
 * 50g of [[butter]]
-* 9 [[eggs|eggs]] yolks
+* 9 [[Egg|eggs]] yolks
 * 2 [[vanilla pod|vanilla pods]]
 * 150g of sugar
 * 60g of [[corn flour]]
@@ -41,7 +41,7 @@ status: done
 
 ### 2. Make the Crème Patissier
 
-* 9 [[eggs|egg]] yolks
+* 9 [[Egg|egg]] yolks
 * 2 [[vanilla pod|vanilla pods]]
 * 150g of sugar
 * 60g of [[corn flour]]

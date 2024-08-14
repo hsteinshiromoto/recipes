@@ -14,7 +14,7 @@ status: done
 
 * 500g of [[mascarpone]].
 * 8-10 tablespoons of sugar.
-* 4 [[eggs]].
+* 4 [[Egg]].
 * Instant [[coffee]].
 * [[Sponge Fingers]].
 * Powdered [[chocolate]].
@@ -27,7 +27,7 @@ status: done
 ## Instructions
 
 1. In one [[bowl]], put all the [[mascarpone]] and tablespoons of sugar.
-2. Separate yolk and white of [[eggs]].
+2. Separate yolk and white of [[Egg]].
 3. Put and mix all the yolks with the [[mascarpone]].
 4. In a second [[bowl]], bater clara em neve.
 5. Slowly add the clara em neve to mix of [[mascarpone]] and yolk.

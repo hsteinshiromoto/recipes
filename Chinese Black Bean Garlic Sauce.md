@@ -19,7 +19,7 @@ date modified: Tuesday, 3rd January 2023, 22:47:58
 - [[Garlic]], one head or 70g
 - Salt, 1 tsp
 - [[Fermented black soybeans]] 2 tbsp or 15g
-- [[shallot|Shallots]] 2 or 130g
+- [[Shallot|Shallots]] 2 or 130g
 - Sugar, 3 tbsp
 - [[Chicken bouillon powder]] 1 tsp -or- MSG 1/2 tsp
 - [[Oyster sauce]] 2 tbsp

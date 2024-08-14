@@ -27,7 +27,7 @@ date modified: Wednesday, 28th December 2022, 23:44:15
 * 200g [[Pork liver]]
 * 150g Slab [[bacon]] for the filling
 * 37.5g Bread such as sourdough, crust removed
-* 50g [[Eggs]] about 1 whole
+* 50g [[Egg]] about 1 whole
 * 37.5g Milk whole
 * Cold water, as needed
 * Ice, as needed
@@ -75,12 +75,12 @@ hang with their buddies, grinder and [[bacon]].
 ### 2. Make the Binder (Panade)
 
 * 37.5g Bread such as sourdough, crust removed
-* 50g [[Eggs]] about 1 whole
+* 50g [[Egg]] about 1 whole
 * 37.5g Milk whole
 
 2.a. Remove the crust from your bread, and discard. (We discard the crust into our mouths as a snack, but you do you.) Chop bread into cubes; you’ll need to end up with about 37.5g.
 
-2.b. Add bread, [[eggs|egg]], and milk to a [[bowl]], and blend with an immersion blender until you get a smooth, pastelike texture.
+2.b. Add bread, [[Egg|egg]], and milk to a [[bowl]], and blend with an immersion blender until you get a smooth, pastelike texture.
 
 Store in the fridge.
 
@@ -156,9 +156,9 @@ To store, keep the pâté wrapped in the plastic. It will last for about a month
 ### 7. Wrap the [[shortcrust pastry]]
 
 * 2 Sheets of [[Shortcrust Pastry]]
-* Yolks for [[eggs|egg]] wash
+* Yolks for [[Egg|egg]] wash
 
-Open the sheets and wash them with [[eggs|egg]] yolks.
+Open the sheets and wash them with [[Egg|egg]] yolks.
 
 Wrap the pastry around the pâté, and place it in the [[oven]] at 220 °C for 20 minutes.
 

@@ -27,7 +27,7 @@ date modified: Wednesday, 28th December 2022, 23:44:25
 * 1 tablespoon + ½ teaspoon \| 11 grams unflavored [[powdered gelatin]]
 * ¼ cup \| 55 grams cold water
 * ⅔ cup \| 160 grams whole milk
-* 5 large [[eggs]]
+* 5 large [[Egg]]
 * ½ cup \| 100 grams granulated sugar
 * 1 cup \| 225 grams creamy [[peanut butter]]
 * 1 ⅔ cups \| 400 grams [[heavy cream]]
@@ -50,7 +50,7 @@ date modified: Wednesday, 28th December 2022, 23:44:25
 5. Put the [[chocolate]] in a heatproof [[bowl]]. Microwave in 10-to-15 second intervals, stirring after each, until just melted \-- don\'t let it get too hot. Line a sheet pan or an 8-inch (20-centimeter) cake pan with parchment paper. Place the disc of [[puffed rice]] in a large [[bowl]]. With your hands, break it into smaller pieces. Pour the melted [[chocolate]] over the [[puffed rice]] and fold with a spatula until coated.
 6. Spread the coated [[puffed rice]] over the prepared sheet pan or press it into the prepared cake pan. Refrigerate until firm, about 20 minutes. Gently unmold the [[puffed rice]] and remove the parchment. (Work quickly, or the [[chocolate]] will melt.)
 7. Make the [[peanut butter]] mousse[^1] : Combine the gelatin and cold water in a small [[bowl]] and stir with a spoon until the gelatin has dissolved. Put the milk in a medium saucepan and bring to a boil over medium heat. Remove from heat and keep warm.
-8. Make the custard: Whisk together the [[eggs|egg]] yolks and sugar in a large [[bowl]] until combined. While whisking, slowly pour in a little bit of the hot milk to temper the [[eggs]] and whisk until combined. Whisk in a bit more of the milk, then pour the tempered [[eggs|egg]] mixture into the saucepan with the remaining milk.
+8. Make the custard: Whisk together the [[Egg|egg]] yolks and sugar in a large [[bowl]] until combined. While whisking, slowly pour in a little bit of the hot milk to temper the [[Egg]] and whisk until combined. Whisk in a bit more of the milk, then pour the tempered [[Egg|egg]] mixture into the saucepan with the remaining milk.
 9. Cook the custard over medium-low, gently stirring with a spatula, until thick enough to coat the back of the spatula, about 10 minutes. Remove from the heat. While the custard is still warm, add the [[peanut butter]], then the gelatin mixture, and stir until combined. Let cool completely, about 30 minutes, or refrigerate for 10 to 15 minutes.
 10. In a stand mixer fitted with the whisk attachment (or in a large [[bowl]] using a hand mixer or whisk), whip the cream on medium speed until it holds soft peaks, about 5 minutes. Slowly pour the custard into the whipped cream a little at a time, gently folding with a spatula until just combined.
 11. Make the dark [[chocolate]] ganache: Combine the cream and the milk in a small saucepan and bring to a boil over medium heat. Remove from the heat and keep warm.

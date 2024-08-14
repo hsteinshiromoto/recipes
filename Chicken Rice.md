@@ -31,7 +31,7 @@ date modified: Thursday, 19th January 2023, 22:33:56
 - 2.5 Tbsp vegetable oil
 - Excess fat from earlier, chopped
 - 4 [[Garlic|cloves garlic]], minced
-- 1 [[shallot]], minced
+- 1 [[Shallot]], minced
 - 3 inch knob [[ginger]], minced
 - Chicken [[Chicken Skin|skin]] of two [[Chicken Thigh|thighs]]
 - 2 cups WASHED [[rice]]
@@ -72,7 +72,7 @@ date modified: Thursday, 19th January 2023, 22:33:56
 5. Once boiling, reduce the heat to a gentle simmer. Add in [[scallion|green onions]], [[garlic|garlic cloves]] (peeled), and a knob of sliced [[ginger]]. Season with salt and let simmer for 30 minutes. Optionally add shiitake mushrooms.
 6. While simmering, cut the excess skin and fat and place into a hot oiled medium pan set over medium.
 7. Let cook, stirring often, until all the fat has rendered. Remove skin from pan and chop finely.
-8. Add back to the pan and turn the heat to medium and add chopped [[ginger]], minced [[shallot]], and minced [[garlic]]. Season with salt and saute until softened.
+8. Add back to the pan and turn the heat to medium and add chopped [[ginger]], minced [[Shallot]], and minced [[garlic]]. Season with salt and saute until softened.
 9. Add washed [[rice]] to the pan and cook over medium heat for 30 seconds, stirring often. Add all the [[rice]] to a rice cooker. Don’t cook until chicken is done simmering.
 10. If chicken is ready, remove and place into an ice bath to chill (do not throw away the broth).
 11. Rub the chicken down with [[sesame oil]]. Tent with foil and place to the side.

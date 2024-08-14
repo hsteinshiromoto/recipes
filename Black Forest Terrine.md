@@ -17,7 +17,7 @@ date modified: Wednesday, 28th December 2022, 23:41:45
 
 * 270g of 70% cocoa [[chocolate]]
 * 200ml of [[heavy cream]]
-* 4 [[eggs]]
+* 4 [[Egg]]
 * 30g + 100g of sugar
 * 30g of [[cherry liquor]]
 * 6g of [[cake flour]]
@@ -37,19 +37,19 @@ date modified: Wednesday, 28th December 2022, 23:41:45
 
 ### 2. Warm the Other Ingredients
 
-* 4 [[eggs]]
+* 4 [[Egg]]
 * 30g of sugar
 * 30g of [[cherry liquor]]
 * 200ml of [[heavy cream]]
 
-2.1. Beat the [[eggs]] and sugar in a [[bowl]].
+2.1. Beat the [[Egg]] and sugar in a [[bowl]].
 2.2. Put [[cherry liquor]] and cream in separete [[Bowl|bowls]].
 2.3. Put all [[Bowl|bowls]] in warm water.
 
 ### 3. Mix All Ingredients
 
 3.1. Add [[heavy cream]] to [[chocolate]] [[bowl]] and mix well.
-3.2. Add [[eggs]] and mix well.
+3.2. Add [[Egg]] and mix well.
 3.3. Add [[cherry liquor]] and mix well.
 3.4. Add [[cake flour]] and mix well.
 
