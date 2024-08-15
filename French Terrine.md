@@ -17,7 +17,7 @@ date modified: Wednesday, 28th December 2022, 23:44:15
 
 * [[Bacon]] thinly sliced, about 0.5 package, as needed
 * 2.5g Yellow [[mustard]] seed
-* 2.5g [[Coriander seed]]
+* 2.5g [[Coriander Seed]]
 * 1.5g Black pepper
 * 1.3g [[Allspice]]
 * 0.75g [[Clove]]
@@ -54,7 +54,7 @@ Making pâté at home isn’t difficult, but it is a project. Cooking it the tra
 1.b. Grind those spices in your spice grinder.
 
    * 2.5g Yellow [[mustard]] seed
-   * 2.5g [[Coriander seed]]
+   * 2.5g [[Coriander Seed]]
    * 1.5g Black pepper
    * 1.3g [[Allspice]]
    * 0.75g [[Clove]]

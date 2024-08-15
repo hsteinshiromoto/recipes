@@ -27,7 +27,7 @@ date modified: Wednesday, 28th December 2022, 23:44:47
 ## Directions
 
 1. Mix yeast with water, and let it rest for 15 minutes.
-2. Mix all the remaining ingredients until you get a homogenous dough.
+2. Mix all the remaining ingredients until you get a homogeneous dough.
 5. Let it rest for 2 hours at 25C or until it doubles in size.
 6. Open dough and add you topping.
 7. Bake at in the [[oven]] 450C for 7 minutes.

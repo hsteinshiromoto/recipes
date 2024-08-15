@@ -1,11 +1,8 @@
 ---
-alias: [Cilantro]
-tags: coriander
+tags: 
 status:
-title: Cilantro
-linter-yaml-title-alias: Cilantro
-date created: Thursday, 19th January 2023, 21:55:04
-date modified: Thursday, 19th January 2023, 21:55:10
+alias: [cilantro, Coriander, coriander]
+date created: Sunday, 16th June 2024, 22:38:35
 ---
 
 # Cilantro

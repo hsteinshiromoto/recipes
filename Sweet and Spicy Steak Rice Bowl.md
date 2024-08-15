@@ -46,7 +46,7 @@ date modified: Monday, 20th March 2023, 21:30:39
 
 **Make the sauce:**
 
-Combine all **Sweet & Spicy Stir Fry Sauce** ingredients together until homogenous. Set aside.
+Combine all **Sweet & Spicy Stir Fry Sauce** ingredients together until homogeneous. Set aside.
 
 **Stir fry the vegetables:**
 

@@ -25,7 +25,7 @@ status::
 - 1g or 2tsp dried [[thyme]]
 - 5g or 2 1/2tsp ground [[cumin]]
 - 1g or 2tsp dried [[oregano]]
-- 2g ground [[coriander seed|coriander seeds]]
+- 2g ground [[Coriander Seed|coriander seeds]]
 - 5g [[garam masala]]
 - 1g or 1tsp ground black pepper
 - 20g or 3 1/2 tsp salt

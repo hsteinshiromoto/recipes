@@ -9,6 +9,7 @@ date created: Wednesday, 14th August 2024, 21:37:44
 # Ingredients
 
 %% Begin Waypoint %%
+
 - [[00 flour]]
 - [[allspice]]
 - [[Arugula]]
@@ -20,6 +21,7 @@ date created: Wednesday, 14th August 2024, 21:37:44
 - [[bean sprouts]]
 - [[Beef Bone]]
 - [[Beef Mince]]
+- [[Black Beans]]
 - [[Black Cardamom]]
 - [[Bread flour]]
 - [[Broccoli]]
@@ -50,7 +52,7 @@ date created: Wednesday, 14th August 2024, 21:37:44
 - [[clove]]
 - [[Coconut Fat]]
 - [[Coffee]]
-- [[coriander seed]]
+- [[Coriander Seed]]
 - [[corn flour]]
 - [[corn syrup]]
 - [[Corn]]
@@ -108,6 +110,7 @@ date created: Wednesday, 14th August 2024, 21:37:44
 - [[Peanut]]
 - [[Pickled ginger]]
 - [[Pickles]]
+- [[Pinto Beans]]
 - [[pistachios]]
 - [[Poppy Seed]]
 - [[pork liver]]
@@ -190,7 +193,7 @@ date created: Wednesday, 14th August 2024, 21:37:44
 - [[Cinnamon]]
 - [[clove]]
 - [[Coffee]]
-- [[coriander seed]]
+- [[Coriander Seed]]
 - [[corn flour]]
 - [[corn syrup]]
 - [[Corn]]

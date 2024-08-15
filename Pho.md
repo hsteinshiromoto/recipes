@@ -22,7 +22,7 @@ date modified: Thursday, 19th January 2023, 22:03:43
 - 5 [[clove|cloves]], toasted
 - 5-6 [[star anise]], toasted
 - 3 [[black cardamom]] pods (optional)
-- 35g (1/3 cup) [[coriander seed|coriander seeds]], toasted
+- 35g (1/3 cup) [[Coriander Seed|coriander seeds]], toasted
 - 1 [[cinnamon]] stick, toasted
 - 60ml (1/4 cup) [[Fish Sauce]]
 - 22g (1.5 tablespoons) brown sugar
@@ -49,7 +49,7 @@ date modified: Thursday, 19th January 2023, 22:03:43
 3. Sear the [[chuck roast]] on all sides on a ripping hot oiled medium skillet. 2-3 minutes per side. Place to the side.
 4. Add all the bones to a large stock pot covered with cold water. Let sit for 5 minutes.
 5. Place on the stove and slowly bring to a simmer. Skim off any scum and foam.
-6. Once simmering, add in the [[onion|onions]], [[ginger]], seared [[chuck roast]] with [[clove|cloves]], [[star anise]], cardamom pods, [[coriander seed|coriander seeds]], [[cinnamon]] stick, [[Fish Sauce]], and brown sugar. Mix to combine then let simmer uncovered for 2 hours.
+6. Once simmering, add in the [[onion|onions]], [[ginger]], seared [[chuck roast]] with [[clove|cloves]], [[star anise]], cardamom pods, [[Coriander Seed|coriander seeds]], [[cinnamon]] stick, [[Fish Sauce]], and brown sugar. Mix to combine then let simmer uncovered for 2 hours.
 7. After 2 hours, remove the [[chuck roast]] and simmer for another 2 hours.
 8. Remove all the bones and drain into a large pot through a mesh [[strainer]].
 9. Season with a few splashes of [[Fish Sauce]] and pinches of brown sugar.

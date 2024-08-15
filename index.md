@@ -121,7 +121,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 - [[chinese black vinegar]]
 - [[chives]]
 - [[clove]]
-- [[coriander seed]]
+- [[Coriander Seed]]
 - [[corn flour]]
 - [[corn syrup]]
 - [[cramberries]]
