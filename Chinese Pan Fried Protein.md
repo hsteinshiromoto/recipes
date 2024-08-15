@@ -17,7 +17,7 @@ date modified: Monday, 19th June 2023, 15:37:20
 
 ### Main Ingredients
 
-- 1kg [[chicken thigh]] or [[pork chops]]
+- 1kg [[Chicken Thighs]] or [[pork chops]]
 - 1.5 [[onion|red onion]]
 - 1.5 [[onion|white onion]]
 - 7 cloves [[garlic]]

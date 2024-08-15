@@ -25,7 +25,7 @@ date modified: Wednesday, 28th December 2022, 23:45:08
 * Freshly ground black pepper
 * 2 tablespoons extra-virgin [[olive oil]], plus more for finishing
 * 1 tablespoon minced fresh [[oregano]], [[marjoram]], and/or [[thyme]] leaves
-* 2 tablespoons minced fresh delicate herbs, such as [[parsley]], [[mint]], [[basil]], [[tarragon]], and/or [[chives]]
+* 2 tablespoons minced fresh delicate herbs, such as [[Parsley]], [[mint]], [[basil]], [[tarragon]], and/or [[chives]]
 
 ## Equipment
 

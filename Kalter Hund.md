@@ -10,11 +10,11 @@ date created: Wednesday, 27th March 2024, 17:07:26
 
 ## Ingredients
 
-- 200 grams 1 pkg. Butter Biscuits Leibnitz is best
-- 150 grams Dark Chocolate
-- 450 grams Milk Chocolate
-- 150 grams of Coconut Fat
-- 1 cup Heavy Cream
+- 200 grams 1 pkg. Butter Biscuits Leibniz is best
+- 150 grams [[Dark Chocolate]]
+- 450 grams [[Milk Chocolate]]
+- 150 grams of [[Coconut Fat]]
+- 1 cup [[Heavy Cream]]
 - 2 Tsp Vanilla Extract
 - 3 Tb. Granulated Sugar
 - 2 Tbl Rum optional

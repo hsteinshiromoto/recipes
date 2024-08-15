@@ -1,11 +1,8 @@
 ---
-alias: [Limes]
+alias: [Limes, lime, limes, lime juice]
 tags: 
 status:
-title: Lime
-linter-yaml-title-alias: Lime
-date created: Thursday, 19th January 2023, 21:58:01
-date modified: Thursday, 19th January 2023, 21:58:09
+date created: Sunday, 16th June 2024, 22:38:35
 ---
 
 # Lime

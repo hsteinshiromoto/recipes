@@ -33,7 +33,7 @@ format: list
 
 ### Pad Thai Sauce
 
-- 1 tablespoon [[fish sauce]]
+- 1 tablespoon [[Fish Sauce]]
 - 2-3 tablespoons sugar
 - 1/2-2 teaspoons [[tamarind concentrate]] (I used 2 and loved it, but Lauren thought it was way too acidic)
 - 2 tablespoons [[ketchup]]

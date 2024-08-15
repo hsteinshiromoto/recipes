@@ -31,7 +31,7 @@ date modified: Tuesday, 3rd January 2023, 22:24:27
 
 1. Cube the chicken into 1/2-1 inch bite-sized pieces, and sprinkle with salt. If time permits, complete this step up to a day ahead of time and let the chicken dry brine even longer in the fridge.
 2. Chop your green vegetable down to a manageable stir fry size, if applicable. Dice the [[ginger]] and chilies, and thinly slice the [[scallion|green onion]]. Rip or rough chop the basil leaves.
-3. Then, assemble the [[Prik Nam Pla]] sauce: Combine your diced chilies with the [[fish sauce]] and [[Lime Juice]] in a container. Optionally, you can grate in a clove of [[Garlic]] for more pungency or add a pinch of sugar to taste. That’s it.
+3. Then, assemble the [[Prik Nam Pla]] sauce: Combine your diced chilies with the [[Fish Sauce]] and [[Lime|lime juice]] in a container. Optionally, you can grate in a clove of [[Garlic]] for more pungency or add a pinch of sugar to taste. That’s it.
 4. Set a wok over medium heat and add about 15g or half of your oil.
 5. Add the minced [[ginger]], sliced [[scallion|green onion]], and chili. Let saute for about a minute to infuse those flavors into the oil.
 6. Toss in the green vegetables along with a little pinch of salt and saute for 2-3 minutes.

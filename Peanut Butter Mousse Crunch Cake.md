@@ -30,11 +30,11 @@ date modified: Wednesday, 28th December 2022, 23:44:25
 * 5 large [[Egg]]
 * ½ cup \| 100 grams granulated sugar
 * 1 cup \| 225 grams creamy [[peanut butter]]
-* 1 ⅔ cups \| 400 grams [[heavy cream]]
+* 1 ⅔ cups \| 400 grams [[Heavy Cream]]
 
 ### Dark [[Chocolate]] Ganache
 
-* ¾ cup + 3 tablespoons \| 220 grams [[heavy cream]]
+* ¾ cup + 3 tablespoons \| 220 grams [[Heavy Cream]]
 * 3 tablespoons \| 45 grams whole milk
 * 7 ¼ ounces \| 220 grams semisweet or bittersweet dark [[chocolate]], chopped
 * 1 ½ tablespoons \| 45 grams unsalted [[butter]], at room temperature

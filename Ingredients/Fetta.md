@@ -1,11 +1,8 @@
 ---
-alias: [Fetta]
-tags: cheese
 status:
-title: Fetta
-linter-yaml-title-alias: Fetta
-date created: Wednesday, 28th December 2022, 15:06:29
-date modified: Monday, 23rd January 2023, 22:41:51
+alias: [fetta]
+tags: cheese
+date created: Sunday, 16th June 2024, 22:38:35
 ---
 
 # Fetta

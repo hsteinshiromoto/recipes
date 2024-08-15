@@ -1,3 +1,10 @@
+---
+alias: 
+tags: 
+status:
+date created: Sunday, 16th June 2024, 22:38:35
+---
+
 # Index
 
 ## Recipes
@@ -40,7 +47,6 @@
 - [[White Cuban]]
 - [[Why Baking Soda Is the Most Useful Ingredient in Your Kitchen]]
 
-
 ## Ingredients
 
 - [[00 flour]]
@@ -54,7 +60,7 @@
 - [[Cheddar]]
 - [[Chicken Broth]]
 - [[Chicken Skin]]
-- [[Chicken Thigh]]
+- [[Chicken Thighs]]
 - [[Chocolate]]
 - [[Chow mein noodles]]
 - [[Chuck Roast]]
@@ -121,16 +127,16 @@
 - [[cramberries]]
 - [[dark soy sauce]]
 - [[duck fat]]
-- [[eggs]]
-- [[fish sauce]]
+- [[Egg]]
+- [[Fish Sauce]]
 - [[garlic salt]]
 - [[gewurztraminer]]
 - [[ginger]]
-- [[heavy cream]]
+- [[Heavy Cream]]
 - [[hong kong noodles]]
-- [[kale]]
+- [[Kale]]
 - [[light soy sauce]]
-- [[lime juice]]
+- [[Lime Juice]]
 - [[liquid smoke]]
 - [[marjoram]]
 - [[mint]]
@@ -139,7 +145,7 @@
 - [[onion]]
 - [[oregano]]
 - [[oyster sauce]]
-- [[parsley]]
+- [[Parsley]]
 - [[peanut butter]]
 - [[pistachios]]
 - [[pork liver]]
@@ -154,7 +160,7 @@
 - [[sauternes]]
 - [[scallion]]
 - [[sesame oil]]
-- [[shallot]]
+- [[Shallot]]
 - [[shortcrust pastry]]
 - [[snow peas]]
 - [[sour cherries]]
@@ -163,10 +169,9 @@
 - [[tangerine]]
 - [[tarragon]]
 - [[thyme]]
-- [[vanilla pod]]
+- [[Vanilla]]
 
-
-## Equipments
+## Equipment
 
 - [[Baking tray]]
 - [[Bowl]]
@@ -178,3 +183,4 @@
 - [[strainer]]
 - [[tart pan]]
 - [[wok]]
+

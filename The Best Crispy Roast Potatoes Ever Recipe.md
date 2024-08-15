@@ -19,7 +19,7 @@ date modified: Tuesday, 3rd January 2023, 15:12:20
 - Small handful picked fresh [[rosemary]] leaves, finely chopped
 - 3 medium cloves [[Garlic]], minced
 - Freshly ground black pepper
-- Small handful fresh [[parsley]] leaves, minced
+- Small handful fresh [[Parsley]] leaves, minced
 
 ## Instructions
 
@@ -27,7 +27,7 @@ date modified: Tuesday, 3rd January 2023, 15:12:20
 2. Meanwhile, combine [[olive oil]], [[duck fat]], or beef fat with [[rosemary]], [[Garlic]], and a few grinds of black pepper in a small saucepan and heat over medium heat. Cook, stirring and shaking pan constantly, until [[Garlic]] just begins to turn golden, about 3 minutes. Immediately strain oil through a fine-mesh [[strainer]] set in a large bowl. Set [[Garlic]]/[[rosemary]] mixture aside and reserve separately.
 3. When [[potato|potatoes]] are cooked, drain carefully and let them rest in the pot for about 30 seconds to allow excess moisture to evaporate. Transfer to [[bowl]] with infused oil, season to taste with a little more salt and pepper, and toss to coat, shaking [[bowl]] roughly, until a thick layer of mashed [[potato]]–like paste has built up on the [[potato]] chunks.
 4. Transfer [[potato|potatoes]] to a large rimmed baking sheet and separate them, spreading them out evenly. Transfer to [[oven]] and roast, without moving, for 20 minutes. Using a thin, flexible metal spatula to release any stuck [[potato|potatoes]], shake pan and turn [[potato|potatoes]]. Continue roasting until [[potato|potatoes]] are deep brown and crisp all over, turning and shaking them a few times during cooking, 30 to 40 minutes longer.
-5. Transfer [[potato|potatoes]] to a large [[bowl]] and add [[Garlic]]/[[rosemary]] mixture and minced [[parsley]]. Toss to coat and season with more salt and pepper to taste. Serve immediately.
+5. Transfer [[potato|potatoes]] to a large [[bowl]] and add [[Garlic]]/[[rosemary]] mixture and minced [[Parsley]]. Toss to coat and season with more salt and pepper to taste. Serve immediately.
 
 ## Equipment
 

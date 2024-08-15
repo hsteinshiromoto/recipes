@@ -14,7 +14,7 @@ date created: Monday, 4th March 2024, 21:16:03
 - Sea salt flakes
 - **1** egg
 - **25 ml** cold water
-- **30 g** [[rocket]] leaves, to serve
+- **30 g** [[Arugula|rocket]] leaves, to serve
 - Extra virgin olive oil, to serve
 
 **For the filling**

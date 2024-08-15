@@ -19,7 +19,7 @@ status::
 - 1 large [[Egg|egg yolk]]
 - 20g (2T) chopped and rinsed [[Shallot|shallots]]
 - 1 [[garlic]] clove (slivered)
-- 15g (1T) [[Lime Juice|lemon juice]]
+- 15g (1T) [[Lime|lime juice]]
 - 5g (1t) salt
 - 60g (1/4c) [[buttermilk]]
 - 60g (1/4 cup) [[sour cream]]

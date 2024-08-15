@@ -1,38 +1,17 @@
 {
   "collapse-filter": false,
-  "search": "",
+  "search": "-path:_meta_  -path:_attachments_  -path:index -path:Ingredients/Ingredients ",
   "showTags": false,
   "showAttachments": false,
-  "hideUnresolved": true,
-  "showOrphans": false,
+  "hideUnresolved": false,
+  "showOrphans": true,
   "collapse-color-groups": false,
   "colorGroups": [
     {
-      "query": "path:Ingredients",
+      "query": "path:Ingredients  ",
       "color": {
         "a": 1,
-        "rgb": 14701138
-      }
-    },
-    {
-      "query": "path:Equipments",
-      "color": {
-        "a": 1,
-        "rgb": 14734526
-      }
-    },
-    {
-      "query": "path:/",
-      "color": {
-        "a": 1,
-        "rgb": 11657298
-      }
-    },
-    {
-      "query": "tags:drink",
-      "color": {
-        "a": 1,
-        "rgb": 6059222
+        "rgb": 14048348
       }
     }
   ],
@@ -46,6 +25,6 @@
   "repelStrength": 10,
   "linkStrength": 1,
   "linkDistance": 250,
-  "scale": 0.612243434067277,
-  "close": true
+  "scale": 2.835790186435308,
+  "close": false
 }

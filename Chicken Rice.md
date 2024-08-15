@@ -33,7 +33,7 @@ date modified: Thursday, 19th January 2023, 22:33:56
 - 4 [[Garlic|cloves garlic]], minced
 - 1 [[Shallot]], minced
 - 3 inch knob [[ginger]], minced
-- Chicken [[Chicken Skin|skin]] of two [[Chicken Thigh|thighs]]
+- Chicken [[Chicken Skin|skin]] of two [[Chicken Thighs|thighs]]
 - 2 cups WASHED [[rice]]
 - 2 cups [[chicken broth]] from earlier
 
