@@ -24,7 +24,7 @@ status::
 - 1 [[garlic]] clove
 - 10g (1T) [[capsicum]]
 - A strong pinch each of [[oregano]], [[basil]], chili flake, and black pepper
-- 20g (2-3T) red [[onion]]
+- 20g (2-3T) red [[Onion]]
 - 250g (1c) neutral oil (e.g., avocado oil)
 
 ### Instructions

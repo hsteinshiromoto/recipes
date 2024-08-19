@@ -17,7 +17,7 @@ date modified: Thursday, 19th January 2023, 22:03:43
 - 2.2-2.7 kg [[beef bone]] (knuckle and marrow)
 - 450g [[chuck roast]]
 - 5.25l water
-- 2 large yellow [[onion|onions]]
+- 2 large yellow [[Onion|onions]]
 - 1 large whole piece of [[ginger]]
 - 5 [[clove|cloves]], toasted
 - 5-6 [[star anise]], toasted
@@ -35,7 +35,7 @@ date modified: Thursday, 19th January 2023, 22:03:43
 - Thinly sliced [[flank steak]]
 - Cooked [[chuck roast]] from broth
 - Thinly sliced Thai chillies
-- Thinly sliced sweet white [[onion]]
+- Thinly sliced sweet white [[Onion]]
 - [[Thai basil]]
 - [[Cilantro]]
 - [[Mint]]
@@ -45,11 +45,11 @@ date modified: Thursday, 19th January 2023, 22:03:43
 ### Broth Method
 
 1. Start by placing the meat and bones on a foil lined baking sheet and spray with cooking oil. Roast in a 475F [[oven]] for 30-45 minutes.
-2. Set the aromatics like [[ginger]] and [[onion|onions]] onto a foil lined baking sheet, coat in oil, and put under the broiler for 10-12 minutes.
+2. Set the aromatics like [[ginger]] and [[Onion|onions]] onto a foil lined baking sheet, coat in oil, and put under the broiler for 10-12 minutes.
 3. Sear the [[chuck roast]] on all sides on a ripping hot oiled medium skillet. 2-3 minutes per side. Place to the side.
 4. Add all the bones to a large stock pot covered with cold water. Let sit for 5 minutes.
 5. Place on the stove and slowly bring to a simmer. Skim off any scum and foam.
-6. Once simmering, add in the [[onion|onions]], [[ginger]], seared [[chuck roast]] with [[clove|cloves]], [[star anise]], cardamom pods, [[Coriander Seed|coriander seeds]], [[cinnamon]] stick, [[Fish Sauce]], and brown sugar. Mix to combine then let simmer uncovered for 2 hours.
+6. Once simmering, add in the [[Onion|onions]], [[ginger]], seared [[chuck roast]] with [[clove|cloves]], [[star anise]], cardamom pods, [[Coriander Seed|coriander seeds]], [[cinnamon]] stick, [[Fish Sauce]], and brown sugar. Mix to combine then let simmer uncovered for 2 hours.
 7. After 2 hours, remove the [[chuck roast]] and simmer for another 2 hours.
 8. Remove all the bones and drain into a large pot through a mesh [[strainer]].
 9. Season with a few splashes of [[Fish Sauce]] and pinches of brown sugar.
@@ -60,9 +60,9 @@ date modified: Thursday, 19th January 2023, 22:03:43
 1. Start by cooking [[rice noodles]] to package instructions.
 2. Toss together all the desired herb ingredients in a small [[bowl]].
 3. Thinly slice thai chillies and [[flank steak]] (across the grain), as well as the [[chuck roast]].
-4. Cut the limes into wedges or cheeks and slice the white [[onion|onions]].
+4. Cut the limes into wedges or cheeks and slice the white [[Onion|onions]].
 5. Place cooked noodles at the bottom of the [[bowl]] top with [[flank steak]] and [[chuck roast]] then cover with boiling hot broth.
-6. Top with sliced white [[onion|onions]], sliced chiles, herbs salad, and [[lime]] wedges in.
+6. Top with sliced white [[Onion|onions]], sliced chiles, herbs salad, and [[lime]] wedges in.
 
 ## References
 

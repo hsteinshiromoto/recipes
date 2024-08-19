@@ -15,7 +15,7 @@ date modified: Monday, 20th March 2023, 21:24:42
 **Seasoned Tuna**
 
 - 300 g [[Tuna]] block, [sushi grade](https://www.seriouseats.com/how-to-prepare-raw-fish-at-home-sushi-sashimi-food-safety), defrosted & cubed
-- 1/8 of a red [[onion]], sliced into half moons
+- 1/8 of a red [[Onion]], sliced into half moons
 - 2 [[scallion|scallions]], sliced thin
 - A few spoonfuls of Wakame seaweed (Japanese seaweed salad), hydrated and rough chopped
 - A sprinkle of black & white [[sesame seeds]]

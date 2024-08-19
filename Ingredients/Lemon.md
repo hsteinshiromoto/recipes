@@ -1,6 +1,6 @@
 ---
 status:
-alias: [Lemons, lemon, lemons, lemon juice]
+alias: [Lemons, lemon, lemons, lemon juice, Lemon juice]
 tags: 
 date created: Sunday, 16th June 2024, 22:38:35
 ---

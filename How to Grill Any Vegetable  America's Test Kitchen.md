@@ -114,7 +114,7 @@ Whether you’re new to grilling or consider yourself a genuine pit master, _Mas
 
 ![Grilled onion coins on skewers. ](https://res.cloudinary.com/hksqkdlah/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_416/SFS_Grilled_Onions_027_uzjcav)
 
-### [[onion|Onions]]
+### [[Onion|Onions]]
 
 - Prep: Cut into ½-inch-thick slices parallel to equator; skewer parallel to work surface
 - Cook Time: 10 to 12 minutes, turning once

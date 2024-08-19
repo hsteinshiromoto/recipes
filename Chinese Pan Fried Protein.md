@@ -18,8 +18,8 @@ date modified: Monday, 19th June 2023, 15:37:20
 ### Main Ingredients
 
 - 1kg [[Chicken Thighs]] or [[pork chops]]
-- 1.5 [[onion|red onion]]
-- 1.5 [[onion|white onion]]
+- 1.5 [[Onion|red onion]]
+- 1.5 [[Onion|white onion]]
 - 7 cloves [[garlic]]
 - 100 mL [[corn flour]]
 - 70 mL peanut oil
@@ -51,7 +51,7 @@ date modified: Monday, 19th June 2023, 15:37:20
 ### 2. Cut the Aromatics
 
 - Mince the [[Garlic]]
-- Cut the [[onion|white onion]] and the [[onion|red onion]] into slices; the thickness is up to how crunchy you like your onions. Slice them more thinly if you want them to melt into the dish, or cut thicker slices if you prefer crisp bites of onion.
+- Cut the [[Onion|white onion]] and the [[Onion|red onion]] into slices; the thickness is up to how crunchy you like your onions. Slice them more thinly if you want them to melt into the dish, or cut thicker slices if you prefer crisp bites of onion.
 
 ### 3. Prepare the Protein
 

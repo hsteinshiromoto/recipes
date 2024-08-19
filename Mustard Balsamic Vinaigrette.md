@@ -19,7 +19,7 @@ status::
 - 60g (1/4c) [[balsamic vinegar]]
 - 20g (1T) [[honey]]
 - 20g (4t) grainy [[mustard]]
-- 20g (2T) finely minced shallots or [[onion|onions]] (rinsed)
+- 20g (2T) finely minced shallots or [[Onion|onions]] (rinsed)
 - 2 cloves [[garlic]] (smashed)
 - 10-12 cranks of fresh cracked black pepper
 - 210g (1c) extra virgin olive oil

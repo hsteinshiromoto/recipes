@@ -19,7 +19,7 @@ date modified: Sunday, 20th August 2023, 22:48:52
 - [[Spinach]]
 - [[Salmon fillets]]
 - [[Cherry tomatoes]]
-- [[onion|Onions]]
+- [[Onion|Onions]]
 - [[Garlic]]
 - [[Pasta]]
 

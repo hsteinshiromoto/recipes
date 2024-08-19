@@ -16,7 +16,7 @@ date modified: Tuesday, 3rd January 2023, 22:36:04
 ## Ingredients
 
 - 340 g Hong Kong style pan fried noodles (buy the unsteamed variety)
-- 0.50 [[onion]]
+- 0.50 [[Onion]]
 - 5 piece [[scallion|green onion]]
 - 113 g [[bean sprouts]]
 - 14.8 mL [[dark soy sauce]] or [[Tamari]]
@@ -50,7 +50,7 @@ If you're using dried noodles, it's somewhat similar to cooking instant ramen. C
 ### 2. Chop Vegetables
 
 - [[scallion|green onion]] (5 piece) - cut into about 1.5 inch pieces. Separate the roots and the shoots, as we'll be cooking the roots first.
-- [[onion]] (0.50 ) - cut in half, and then julienne (see video for example)
+- [[Onion]] (0.50 ) - cut in half, and then julienne (see video for example)
 - [[bean sprouts]] (113 g) - you can leave these as is. Some traditional restaurants will remove the beans and the tips, which is A LOT of work.. but feel free.
 
 ### 3. Create Sauce
@@ -63,7 +63,7 @@ We'll start by heating our [[wok]] to around 350-400°F (176-204°C). Depending 
 
 AFTER the [[wok]] is hot, we'll add corn oil (14.6 mL) and heat that to 350-400°F. As a visual cue, it should be "shimmering" - rippling, but not smoking. If it's started smoking, the [[wok]] is too hot.
 
-Then, we'll start cooking our [[scallion|green onion]] roots and [[onion|onions]] for right around 1 minute, and set them on a plate for later.
+Then, we'll start cooking our [[scallion|green onion]] roots and [[Onion|onions]] for right around 1 minute, and set them on a plate for later.
 
 Heat the [[wok]] again and add more corn oil (14.6 mL). Once the oil is shimmering, add the noodles.
 
@@ -80,7 +80,7 @@ Letting the noodles adequately cook and crisp on each side is one of the main ke
 Overview
 
 - [[Bean sprouts]]: 30-45 seconds
-- Green [[onion|onions]] + [[onion|onions]]: 1-2 minutes
+- Green [[Onion|onions]] + [[Onion|onions]]: 1-2 minutes
 - Sauce: 1 minute
 - [[Sesame oil]]: 1-2 minutes
 
@@ -90,7 +90,7 @@ Add the [[bean sprouts]]:
 - Set the [[bean sprouts]] in the [[wok]], and then cover them with the noodles. This helps trap some of the heat inside to help them cook more evenly and quickly.
 - Let the [[bean sprouts]] cook underneath the noodles for 30-45 seconds.
 
-Add the green [[onion|onions]] (everything, the cooked roots + raw shoots) and [[onion|onions]], and cook for about 1-2 minutes. Continue separating the noodles with chopsticks and a spatula.
+Add the green [[Onion|onions]] (everything, the cooked roots + raw shoots) and [[Onion|onions]], and cook for about 1-2 minutes. Continue separating the noodles with chopsticks and a spatula.
 
 Pour in the sauce mix, and mix everything around for 1 minute. We'll want to let the sauce evaporate as much as we can.
 
