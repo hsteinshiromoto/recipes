@@ -142,7 +142,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 - [[mint]]
 - [[mustard]]
 - [[olive oil]]
-- [[onion]]
+- [[Onion]]
 - [[oregano]]
 - [[oyster sauce]]
 - [[Parsley]]
