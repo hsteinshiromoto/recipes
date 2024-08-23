@@ -59,7 +59,7 @@ pull:
 ## Run container
 run:
 	$(eval DOCKER_IMAGE_TAG=${DOCKER_IMAGE_NAME}:${DOCKER_TAG})
-	docker run --env UID=$(shell id -u) --env GID=$(shell id -g) -v ${PROJECT_PATH}:/home/user/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
+	docker run -u user --env UID=$(shell id -u) --env GID=$(shell id -g) -v ${PROJECT_PATH}:/home/user/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
 
 ## Exec container
 exec:
