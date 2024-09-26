@@ -803,6 +803,7 @@ $RECYCLE.BIN/
 .obsidian/workspace*.json
 .obsidian/plugins/*/main.js
 .obsidian/plugins/*/manifest.json
+.obsidian/plugins/*/styles.css
 .obsidian/plugins/lazy-plugins/styles.css
 .obsidian/plugins/obsidian-meta-bind-plugin/styles.css
 .obsidian/themes/*/manifest.json
