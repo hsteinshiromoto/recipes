@@ -80,3 +80,5 @@ status::
  4. Place your sandwiches in a grill pan of griddle, and weigh them down with something heavy. Allow them to sear for 30-60 seconds per side until grill marks form.
 
 ## References
+
+https://www.youtube.com/watch?v=kmjkkapeCX4
