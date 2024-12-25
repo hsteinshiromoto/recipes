@@ -8,6 +8,7 @@ SHELL:=/bin/bash
 # include .env
 # export $(shell sed 's/=.*//' .env)
 
+HOST_ARCH=$(shell uname -m)
 PROJECT_PATH := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 GIT_REMOTE=$(shell basename $(shell git remote get-url origin))
 PROJECT_NAME=$(shell echo $(GIT_REMOTE:.git=))
@@ -42,6 +43,7 @@ image:
 	docker build --build-arg BUILD_DATE=${BUILD_DATE} \
 				--build-arg DOCKER_PARENT_IMAGE=${DOCKER_PARENT_IMAGE} \
 				--build-arg PROJECT_NAME=${PROJECT_NAME} \
+				--platform linux/${HOST_ARCH} \
 				-t ${DOCKER_IMAGE_TAG} .
 	@echo "Done"
 
