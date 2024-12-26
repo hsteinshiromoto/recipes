@@ -52,7 +52,7 @@ RUN addgroup "$USER" \
 # ---
 # Instal Dependencies
 # ---
-RUN nix-env -iA nixpkgs.zsh nixpkgs.nodejs_23 nixpkgs.stow nixpkgs.musl
+RUN nix-env -iA nixpkgs.zsh nixpkgs.nodejs_23 nixpkgs.stow nixpkgs.sudo nixpkgs.musl
 
 # ---
 # Define Shell
