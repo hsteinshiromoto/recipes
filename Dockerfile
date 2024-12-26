@@ -18,7 +18,6 @@ ENV QUARTZ=$QUARTZ
 ENV LANG=C.UTF-8 \
 	LC_ALL=C.UTF-8
 ENV TZ Australia/Sydney
-ENV PATH="/nix/var/nix/profiles/default/bin:$PATH"
 
 LABEL org.label-schema.build-date=$BUILD_DATE \
 	maintainer="hsteinshiromoto@gmail.com"
