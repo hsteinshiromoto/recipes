@@ -6,13 +6,13 @@ FROM $DOCKER_PARENT_IMAGE
 
 # NB: Arguments should come after FROM otherwise they're deleted
 ARG BUILD_DATE
-ARG DOCKER_USER=user
-ARG QUARTZ=/home/$DOCKER_USER/quartz
+ARG USER=user
+ARG QUARTZ=/home/$USER/quartz
 # ---
 # Enviroment variables
 # ---
-ENV DOCKER_USER=$DOCKER_USER
-ENV HOME=/home/$DOCKER_USER
+ENV DOCKER_USER=$USER
+ENV HOME=/home/$USER
 ENV WORKDIR=$HOME/workspace
 ENV QUARTZ=$QUARTZ
 ENV LANG=C.UTF-8 \
@@ -28,8 +28,8 @@ RUN mkdir -p $QUARTZ
 # ---
 # Set user
 # ---
-RUN addgroup "$DOCKER_USER" \
-	&& adduser -D "$DOCKER_USER" -G "$DOCKER_USER"
+RUN addgroup "$USER" \
+	&& adduser -D "$USER" -G "$USER"
 
 
 # ---
@@ -82,12 +82,12 @@ RUN set -eux; \
 # ---
 COPY bin/entrypoint.sh  /usr/local/bin/
 RUN chmod 0755 /usr/local/bin/entrypoint.sh \
-	&& sed "s/\$DOCKER_USER/$DOCKER_USER/g" -i /usr/local/bin/entrypoint.sh
+	&& sed "s/\$USER/$USER/g" -i /usr/local/bin/entrypoint.sh
 
 # ---
 # Copy dotfiles
 # ---
-USER $DOCKER_USER
+USER $USER
 RUN mkdir -p $HOME/dotfiles && \
 	git clone https://github.com/hsteinshiromoto/dotfiles.linux.git $HOME/dotfiles
 
