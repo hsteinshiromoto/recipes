@@ -137,5 +137,5 @@ EXPOSE 8080
 
 USER root 
 
-ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
+# ENTRYPOINT ["/usr/local/bin/entrypoint.sh"]
 CMD ["tail", "-f","/dev/null"]
