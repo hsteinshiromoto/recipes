@@ -129,8 +129,9 @@ RUN cd $HOME/quartz && \
 	git remote rm origin && \
 	git remote add origin git@github.com:hsteinshiromoto/recipes.git
 
-COPY .config/quartz/.github/workflows/deploy.yml $HOME/quartz/.github/workflows/
-COPY .config/quartz/quartz.config.ts $HOME/quartz/
+COPY .config/quartz/.github/workflows/deploy.yml $QUARTZ/.github/workflows/
+COPY .config/quartz/quartz.config.ts $QUARTZ/
+RUN chmod 0755 -R $QUARTZ/
 COPY .config/nvim $HOME/.config/nvim
 
 EXPOSE 8080
