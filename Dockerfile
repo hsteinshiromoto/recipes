@@ -7,23 +7,41 @@ FROM $DOCKER_PARENT_IMAGE
 # NB: Arguments should come after FROM otherwise they're deleted
 ARG BUILD_DATE
 ARG USER=user
-ARG QUARTZ=/home/$USER/quartz
 # ---
 # Enviroment variables
 # ---
+ENV GOSU_VERSION=1.17
+ENV LANG=C.UTF-8 \
+	LC_ALL=C.UTF-8
+ENV PATH="/nix/var/nix/profiles/default/bin:$PATH"
 ENV DOCKER_USER=$USER
 ENV HOME=/home/$USER
 ENV WORKDIR=$HOME/workspace
-ENV QUARTZ=$QUARTZ
-ENV LANG=C.UTF-8 \
-	LC_ALL=C.UTF-8
+ENV QUARTZ=$HOME/quartz
 ENV TZ Australia/Sydney
 
 LABEL org.label-schema.build-date=$BUILD_DATE \
 	maintainer="hsteinshiromoto@gmail.com"
 
+RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 RUN mkdir -p $WORKDIR
 RUN mkdir -p $QUARTZ
+
+# ---
+# Instal Alpine base packages
+# ---
+RUN apk --no-cache add \
+	bash \
+	curl \
+	git \
+	shadow \
+	xz
+
+# ---
+# Install Nix Package Manager
+# ---
+COPY get_nix.sh /usr/local
+RUN chmod +x /usr/local/get_nix.sh && bash /usr/local/get_nix.sh
 
 # ---
 # Set user
@@ -49,7 +67,6 @@ ENV SHELL=/bin/bash
 # References:
 #   [1] https://github.com/tianon/gosu/blob/master/INSTALL.md
 # ---
-ENV GOSU_VERSION 1.17
 RUN set -eux; \
 	\
 	apk add --no-cache --virtual .gosu-deps \
