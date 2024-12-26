@@ -1,15 +1,13 @@
 version: '3.8'
 
 services:
-  app:
-    build:
-      context: .
-      dockerfile: Dockerfile
-    volumes:
-      - ./config:/home/user/.config
+  quartz:
+    image: ghcr.io/hsteinshiromoto/quartz/quartz:latest
+    container_name: recipes.quartz
     ports:
-      - "8080:8080"
-    environment:
-      - UID=${UID}
-      - GID=${GID}
+      - "8080"
+    volumes:
+      - .config/quartz:/home/user/quartz
+      - .:/home/user/workspace
+    working_dir: /home/user/workspace
     command: tail -f /dev/null
