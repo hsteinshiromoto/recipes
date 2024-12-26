@@ -40,7 +40,7 @@ RUN apk --no-cache add \
 # ---
 # Install Nix Package Manager
 # ---
-COPY get_nix.sh /usr/local
+COPY bin/get_nix.sh /usr/local
 RUN chmod +x /usr/local/get_nix.sh && bash /usr/local/get_nix.sh
 
 # ---
