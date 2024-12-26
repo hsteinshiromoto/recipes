@@ -19,7 +19,6 @@ DOCKER_REPOSITORY_USER=hsteinshiromoto
 DOCKER_REPOSITORY=ghcr.io
 DOCKER_IMAGE_NAME=${DOCKER_REPOSITORY}/${DOCKER_REPOSITORY_USER}/${PROJECT_NAME}/${PROJECT_NAME}
 DOCKER_TAG=$(shell git ls-files -s Dockerfile | awk '{print $$2}' | cut -c1-16)
-DOCKER_PARENT_IMAGE="hsteinshiromoto/alpix:latest"
 
 BUILD_DATE=$(shell date +%Y%m%d-%H:%M:%S)
 
@@ -41,7 +40,6 @@ image:
 
 	@echo "Building docker image ${DOCKER_IMAGE_TAG}"
 	docker build --build-arg BUILD_DATE=${BUILD_DATE} \
-				--build-arg DOCKER_PARENT_IMAGE=${DOCKER_PARENT_IMAGE} \
 				--build-arg PROJECT_NAME=${PROJECT_NAME} \
 				--platform linux/${HOST_ARCH} \
 				-t ${DOCKER_IMAGE_TAG} .

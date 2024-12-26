@@ -1,7 +1,7 @@
 # ---
 # Build arguments
 # ---
-ARG DOCKER_PARENT_IMAGE
+ARG DOCKER_PARENT_IMAGE=alpine:3.20.3
 FROM $DOCKER_PARENT_IMAGE
 
 # NB: Arguments should come after FROM otherwise they're deleted
