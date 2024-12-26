@@ -25,7 +25,6 @@ LABEL org.label-schema.build-date=$BUILD_DATE \
 
 RUN ln -snf /usr/share/zoneinfo/$TZ /etc/localtime && echo $TZ > /etc/timezone
 RUN mkdir -p $WORKDIR
-RUN mkdir -p $QUARTZ
 
 # ---
 # Instal Alpine base packages
@@ -119,6 +118,7 @@ RUN cd $HOME/dotfiles && stow .
 # ---
 # Install Quartz
 # ---
+RUN mkdir -p $QUARTZ
 RUN cd $HOME \
 	&& git clone https://github.com/jackyzha0/quartz.git \
 	&& cd quartz \
