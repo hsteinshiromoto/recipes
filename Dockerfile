@@ -35,7 +35,7 @@ RUN addgroup "$DOCKER_USER" \
 # ---
 # Instal Dependencies
 # ---
-RUN nix-env -iA nixpkgs.bash nixpkgs.zsh nixpkgs.git nixpkgs.nodejs_23
+RUN nix-env -iA nixpkgs.zsh nixpkgs.nodejs_23
 
 # ---
 # Define Shell
