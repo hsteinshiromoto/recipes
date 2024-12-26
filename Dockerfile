@@ -7,16 +7,14 @@ FROM $DOCKER_PARENT_IMAGE
 # NB: Arguments should come after FROM otherwise they're deleted
 ARG BUILD_DATE
 ARG DOCKER_USER=user
-# Silence debconf
-ARG DEBIAN_FRONTEND=noninteractive
-
-# Add vscode user to the container
-ARG PROJECT_NAME
+ARG QUARTZ=/home/$DOCKER_USER/quartz
 # ---
 # Enviroment variables
 # ---
 ENV DOCKER_USER=$DOCKER_USER
 ENV HOME=/home/$DOCKER_USER
+ENV WORKDIR=$HOME/workspace
+ENV QUARTZ=$QUARTZ
 ENV LANG=C.UTF-8 \
 	LC_ALL=C.UTF-8
 ENV TZ Australia/Sydney
