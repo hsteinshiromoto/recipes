@@ -8,6 +8,6 @@ services:
       - "8080"
     volumes:
       - .:/home/user/workspace
-      - ./quartz.config.ts:/home/user/quartz/quartz.config.ts
+      - .config/quartz/quartz.config.ts:/home/user/quartz/quartz.config.ts
     working_dir: /home/user/workspace
     command: tail -f /dev/null
