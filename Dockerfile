@@ -18,10 +18,12 @@ ENV QUARTZ=$QUARTZ
 ENV LANG=C.UTF-8 \
 	LC_ALL=C.UTF-8
 ENV TZ Australia/Sydney
-ENV PROJECT_NAME=$PROJECT_NAME
 
 LABEL org.label-schema.build-date=$BUILD_DATE \
 	maintainer="hsteinshiromoto@gmail.com"
+
+RUN mkdir -p $WORKDIR
+RUN mkdir -p $QUARTZ
 
 # ---
 # Set user
@@ -33,7 +35,7 @@ RUN addgroup "$DOCKER_USER" \
 # ---
 # Instal Dependencies
 # ---
-RUN apk add --update bash cargo curl git neovim npm rust stow zsh
+RUN nix-env -iA nixpkgs.bash nixpkgs.zsh nixpkgs.git nixpkgs.nodejs_23
 
 # ---
 # Define Shell
@@ -96,9 +98,6 @@ RUN cd $HOME/dotfiles && stow .
 #
 # This must be configured before installing packaged in the Docker image
 # ---
-RUN cd $HOME && mkdir -p $PROJECT_NAME
-RUN cd $HOME && mkdir -p .cache
-WORKDIR $HOME
 
 # ---
 # Install Quartz
