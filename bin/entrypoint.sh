@@ -19,6 +19,6 @@ then
         set -- gosu "${UID}:${GID}" "${@}"
 fi
 
-# chown -R $DOCKER_USER /home/$DOCKER_USER
+chown -R $USER /home/$USER
 
 exec "$@"
