@@ -73,6 +73,8 @@ ci:
 	mkdir -p .github/workflows
 	python3 bin/make_ci.py
 
+shell:
+	nix develop
 # ---
 # Self Documenting Commands
 # ---
