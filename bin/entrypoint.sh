@@ -12,13 +12,13 @@ fi
 
 if [ "$UID" != 0 ]
 then
-        usermod -u "$UID" "$DOCKER_USER" 2>/dev/null && {
-                groupmod -g "$GID" "$DOCKER_USER" 2>/dev/null ||
-                usermod -a -G "$GID" "$DOCKER_USER"
+        usermod -u "$UID" "$USER" 2>/dev/null && {
+                groupmod -g "$GID" "$USER" 2>/dev/null ||
+                usermod -a -G "$GID" "$USER"
         }
         set -- gosu "${UID}:${GID}" "${@}"
 fi
 
-# chown -R $DOCKER_USER /home/$DOCKER_USER
+chown -R $USER /home/$USER
 
 exec "$@"

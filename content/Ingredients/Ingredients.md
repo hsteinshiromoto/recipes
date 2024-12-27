@@ -9,6 +9,7 @@ date created: Wednesday, 14th August 2024, 21:37:44
 # Ingredients
 
 %% Begin Waypoint %%
+
 - [[00 flour]]
 - [[allspice]]
 - [[Arugula]]

@@ -1,0 +1,13 @@
+version: '3.8'
+
+services:
+  quartz:
+    image: ghcr.io/hsteinshiromoto/quartz/quartz:latest
+    container_name: recipes.quartz
+    ports:
+      - "8080"
+    volumes:
+      - .:/home/user/workspace
+      - .config/quartz/quartz.config.ts:/home/user/quartz/quartz.config.ts
+    working_dir: /home/user/workspace
+    command: tail -f /dev/null
