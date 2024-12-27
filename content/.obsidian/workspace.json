@@ -1,0 +1,340 @@
+{
+  "main": {
+    "id": "c0a0f7f4562e6d6b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8960f36d8d1d18c0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e3bf34d4f4d9b248",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Scallion Noodles.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "dafc915385543179",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Cheesy Bean and Tomato Bake.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "85c0af2abc7f4cc5",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chicken Rice.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "9eb4eb4012418c63",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Coffee Syrup.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3aafd8c51ccdce8e",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chicken Shawarma from Brian Lagerstrom.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "a7cabb3dfdc8a1fe",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Chicken Shawarma from Middle Eats.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "0b88204d8cacf5bd",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Ingredients.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "fe48355912cb1fac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Equipments/Equipments.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "ee945401ac19eab8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Ingredients/Ingredients.md",
+                "mode": "source",
+                "backlinks": true,
+                "source": false
+              }
+            }
+          }
+        ],
+        "currentTab": 7
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "030ad924e069dac6",
+    "type": "split",
+    "children": [
+      {
+        "id": "5e00100723e8cd16",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "9914c6857037ac95",
+            "type": "leaf",
+            "state": {
+              "type": "recent-files",
+              "state": {}
+            }
+          },
+          {
+            "id": "fd629336db391e7a",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "c153f6c69272bb92",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "ef0631aa8367129c",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "eec838b7408235b2",
+    "type": "split",
+    "children": [
+      {
+        "id": "0f2a0909c5627dc2",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "be5dab1599721343",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Equipments/Equipments.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "f58fb5d06bc0c61f",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Equipments/Equipments.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "d384de4cbe6a5473",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "e0f02da46f87b159",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Equipments/Equipments.md"
+              }
+            }
+          },
+          {
+            "id": "1733ca9508094e5d",
+            "type": "leaf",
+            "state": {
+              "type": "Strange New Worlds",
+              "state": {}
+            }
+          },
+          {
+            "id": "08a255da6724013d",
+            "type": "leaf",
+            "state": {
+              "type": "BC-matrix",
+              "state": {}
+            }
+          },
+          {
+            "id": "fe4f0ad7ae022081",
+            "type": "leaf",
+            "state": {
+              "type": "BC-tree",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 2
+      },
+      {
+        "id": "5839e9dff221e9b9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3a3fbfe7cfa719f",
+            "type": "leaf",
+            "state": {
+              "type": "map-of-content",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "templater-obsidian:Templater": false,
+      "omnisearch:Omnisearch": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false,
+      "zk-prefixer:Create new unique note": false,
+      "map-of-content:Update Map of Content": false,
+      "breadcrumbs:Breadcrumbs Visualisation": false,
+      "webpage-html-export:Export Vault to HTML": false
+    }
+  },
+  "active": "fe48355912cb1fac",
+  "lastOpenFiles": [
+    "Ingredients/Ingredients.md",
+    "Chicken Shawarma from Middle Eats.md",
+    "Ingredients/Pickles.md",
+    "Ingredients/Bay Leaves.md",
+    "Ingredients/Chilli Flakes.md",
+    "Ingredients/Cardamon Powder.md",
+    "Ingredients/Nutmeg.md",
+    "Ingredients/Cloves.md",
+    "Nutmeg.md",
+    "Ingredients/Turmeric.md",
+    "Ingredients/Smoked Paprika.md",
+    "Ingredients/Onion Powder.md",
+    "Ingredients/Onion.md",
+    "Ingredients/Tomato Paste.md",
+    "Ingredients/Pimento.md",
+    "Ingredients/Lemon.md",
+    "Chicken Shawarma from Brian Lagerstrom.md",
+    "Chicken Rice.md",
+    "Chana Masala.md",
+    "Cantonese Chow Mein.md",
+    "Ingredients/Vanilla.md",
+    "Ingredients/Vanilla Extract.md",
+    "Ingredients/Thai basil.md",
+    "Ingredients/Thai Chilli.md",
+    "Ingredients/Dark Chocolate.md",
+    "Ingredients/Chocolate.md",
+    "_attachments_/SustainableTable_SeasonalProduceGuide_A4.pdf",
+    "_attachments_"
+  ]
+}
