@@ -1,6 +1,6 @@
 ---
-alias: [garlic clove, cloves of garlic, cloves garlic]
-tags: 
+aliases: [garlic clove, cloves of garlic, cloves garlic]
+tags:
 status:
 title: Garlic
 linter-yaml-title-alias: Garlic
