@@ -55,6 +55,7 @@ For **single meal** plans, plan just one meal.
 6. **Use base dish + variations strategy.** Cook larger batches of base components and vary the accompaniments:
    - Rice + pressure-cooked meat on day 1, pasta al ragu on day 2, beef pie on day 3 (same base protein, different presentations)
    - A large pot of beans serves as side dish, then taco filling, then soup base
+7. Make sure to take into account seasonal ingredients at the time of planning, based on Sydney Australia.
 
 ## Step 3: Create New Recipes When Needed
 

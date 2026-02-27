@@ -17,6 +17,7 @@ Ask the user the following 4 questions using the `AskUserQuestion` tool. Present
 2. **Single meal or weekly meal plan?** (default: weekly)
 3. **Expected average cook time per dish (prep + cooking)?** (default: 30 minutes)
 4. **Dietary requirements or preferences?** (default: low fat, high protein)
+5. Any ingredients to be used or cuisines to try? (default: None)
 
 ## Step 2: Scan the Vault
 
