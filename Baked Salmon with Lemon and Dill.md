@@ -8,7 +8,8 @@ cooking_time:: 15
 preparation_time:: 5
 serves:: 3
 source::
-status:: draft
+status:: done 
+level:: easy
 # Baked Salmon with Lemon and Dill
 
 ## Ingredients
