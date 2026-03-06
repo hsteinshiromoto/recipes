@@ -16,7 +16,7 @@ Ask the user the following questions using the `AskUserQuestion` tool. Present a
 1. **How many people are you cooking for?** (default: 2 adults + 1 child)
 2. **Single meal or weekly meal plan?** (default: weekly)
 3. **Include planning for breakfast?** Y/N (default: No)
-4. **Expected complexity per dish (number of ingredients vs number of preparation instructions)?** H/M/L (default: M)
+4. **Expected average complexity (number of ingredients vs number of preparation instructions)?** H/M/L (default: M)
 5. **Dietary requirements or preferences?** (default: low fat, high protein)
 6. Any ingredients to be used or cuisines to try? (default: Use in-season ingredients)
 
@@ -32,9 +32,10 @@ Compile the user's answers into the following structured format:
 ## Requirements Brief
 - **People**: [user answer]
 - **Plan type**: [single meal | weekly]
-- **Max cook time**: [N] min
+- **Include breakfast in the plan**: [Y | N]
+- **Max cook complexity**: [High | Medium | Low]
 - **Dietary**: [requirements]
-- **Week starting**: [next Monday's date, YYYY-MM-DD]
+- **Week starting**: [next Saturday's date, YYYY-MM-DD]
 - **Vault recipes available**: [count from Step 2]
 ```
 
