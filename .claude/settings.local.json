@@ -1,0 +1,26 @@
+{
+  "permissions": {
+    "allow": [
+      "WebFetch(domain:www.coles.com.au)",
+      "WebFetch(domain:www.woolworths.com.au)",
+      "WebFetch(domain:www.aldi.com.au)",
+      "WebFetch(domain:www.frugl.com.au)",
+      "WebFetch(domain:www.lasoo.com.au)",
+      "WebFetch(domain:www.shopfully.com.au)",
+      "WebFetch(domain:www.statista.com)",
+      "WebFetch(domain:www.numbeo.com)",
+      "WebFetch(domain:www.savings.com.au)",
+      "Bash(python3 -c:*)",
+      "Bash(ls:*)",
+      "Bash(git -C ~/Projects/recipes *)",
+      "Bash(git add:*)"
+    ]
+  },
+  "enableAllProjectMcpServers": true,
+  "enabledMcpjsonServers": [
+    "github",
+    "gitlab",
+    "hledger-mcp",
+    "mcp-obsidian"
+  ]
+}
