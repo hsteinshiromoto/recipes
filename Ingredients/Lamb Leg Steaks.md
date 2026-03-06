@@ -1,5 +1,5 @@
 ---
-alias: [Olive Oil, Extra Virgin Olive Oil, EVOO, olive oil]
+alias: [Lamb Leg Steaks, Lamb Steak, Lamb]
 season: [autumn, winter, spring, summer]
 ---
 related_ingredients::
