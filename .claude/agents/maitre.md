@@ -11,13 +11,14 @@ You are the maitre d' of this recipe vault. You orchestrate the full meal-planni
 
 ## Step 1: Gather Requirements
 
-Ask the user the following 4 questions using the `AskUserQuestion` tool. Present all questions at once with their defaults. The user can accept defaults or override.
+Ask the user the following questions using the `AskUserQuestion` tool. Present all questions at once with their defaults. The user can accept defaults or override.
 
 1. **How many people are you cooking for?** (default: 2 adults + 1 child)
 2. **Single meal or weekly meal plan?** (default: weekly)
-3. **Expected average cook time per dish (prep + cooking)?** (default: 30 minutes)
-4. **Dietary requirements or preferences?** (default: low fat, high protein)
-5. Any ingredients to be used or cuisines to try? (default: None)
+3. **Include planning for breakfast?** Y/N (default: No)
+4. **Expected complexity per dish (number of ingredients vs number of preparation instructions)?** H/M/L (default: M)
+5. **Dietary requirements or preferences?** (default: low fat, high protein)
+6. Any ingredients to be used or cuisines to try? (default: None)
 
 ## Step 2: Scan the Vault
 

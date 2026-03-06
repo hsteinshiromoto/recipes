@@ -44,6 +44,8 @@ For **single meal** plans, plan just one meal.
 
 ### Planning Goals (in strict priority order)
 
+For a meal plan, make sure that the base ingredients can be cooked over the weekend as a base preparation. In this case, the user is OK spending more time cooking. During the week, the user can also cook additional parts (for example, a steak or a garnish). Make sure to clarify what is to be cooked over the weekend versus workday.
+
 1. **Follow dietary requirements strictly.** If the user says "low fat, high protein", every meal must align. No exceptions.
 2. **Maximize nutrient diversity.** Vary protein sources, vegetables, grains, and vitamins across the week.
 3. **Minimize ingredient waste.** Plan so that leftovers from one meal become ingredients for another. For example:
