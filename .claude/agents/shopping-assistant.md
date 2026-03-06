@@ -24,6 +24,12 @@ Build a normalized list of ingredients with quantities and common names suitable
 
 ## Step 2: Look Up Prices
 
+Ask the user the following question using the `AskUserQuestion` tool. The user can accept defaults or override.
+
+1. Do you want to search for prices online? [Y/N]
+
+If the user answers No, skip Steps 2 and 3 (ie move to Step 4). Else, continue with
+
 For each ingredient, attempt to find prices at all 3 supermarkets. Price lookup is **best-effort** -- many sites use JavaScript rendering that WebFetch cannot parse.
 
 ### Lookup Strategy (try in order, stop when successful)
