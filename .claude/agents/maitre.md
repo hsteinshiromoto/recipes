@@ -18,7 +18,7 @@ Ask the user the following questions using the `AskUserQuestion` tool. Present a
 3. **Include planning for breakfast?** Y/N (default: No)
 4. **Expected complexity per dish (number of ingredients vs number of preparation instructions)?** H/M/L (default: M)
 5. **Dietary requirements or preferences?** (default: low fat, high protein)
-6. Any ingredients to be used or cuisines to try? (default: None)
+6. Any ingredients to be used or cuisines to try? (default: Use in-season ingredients)
 
 ## Step 2: Scan the Vault
 
