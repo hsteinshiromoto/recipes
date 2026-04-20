@@ -1,5 +1,5 @@
 ---
-alias: Flan, Crème Caramel
+alias: Flan, Crème Caramel, pudim
 tags:
   - dessert
   - French
