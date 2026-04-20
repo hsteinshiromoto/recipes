@@ -13,7 +13,9 @@
       "Bash(python3 -c:*)",
       "Bash(ls:*)",
       "Bash(git -C ~/Projects/recipes *)",
-      "Bash(git add:*)"
+      "Bash(git add:*)",
+      "WebFetch(domain:www.chefsteps.com)",
+      "WebSearch"
     ]
   },
   "enableAllProjectMcpServers": true,
