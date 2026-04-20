@@ -8,18 +8,18 @@ SHELL:=/bin/bash
 # include .env
 # export $(shell sed 's/=.*//' .env)
 
+HOST_ARCH=$(shell uname -m)
 PROJECT_PATH := $(shell dirname $(realpath $(lastword $(MAKEFILE_LIST))))
 GIT_REMOTE=$(shell basename $(shell git remote get-url origin))
 PROJECT_NAME=$(shell echo $(GIT_REMOTE:.git=))
 CURRENT_VERSION=$(shell git tag -l --sort=-creatordate | head -n 1 | cut -d "v" -f2-)
-QUARTZ_PATH=/usr/local/quartz
+QUARTZ_PATH=/home/user/quartz
 
 DOCKER_REPOSITORY_USER=hsteinshiromoto
 DOCKER_REPOSITORY=ghcr.io
 DOCKER_IMAGE_NAME=${DOCKER_REPOSITORY}/${DOCKER_REPOSITORY_USER}/${PROJECT_NAME}/${PROJECT_NAME}
 DOCKER_TAG=$(shell git ls-files -s Dockerfile | awk '{print $$2}' | cut -c1-16)
-DOCKER_TAG="latest"
-DOCKER_PARENT_IMAGE=alpine:3.20
+DOCKER_PARENT_IMAGE=ubuntu:24.04
 
 BUILD_DATE=$(shell date +%Y%m%d-%H:%M:%S)
 
@@ -28,7 +28,7 @@ BUILD_DATE=$(shell date +%Y%m%d-%H:%M:%S)
 # ---
 
 ## Create index file
-index: 
+index:
 	python3 bin/make_index.py
 
 ## Publish to Webhost
@@ -43,6 +43,7 @@ image:
 	docker build --build-arg BUILD_DATE=${BUILD_DATE} \
 				--build-arg DOCKER_PARENT_IMAGE=${DOCKER_PARENT_IMAGE} \
 				--build-arg PROJECT_NAME=${PROJECT_NAME} \
+				--platform linux/${HOST_ARCH} \
 				-t ${DOCKER_IMAGE_TAG} .
 	@echo "Done"
 
@@ -60,7 +61,9 @@ pull:
 ## Run container
 run:
 	$(eval DOCKER_IMAGE_TAG=${DOCKER_IMAGE_NAME}:${DOCKER_TAG})
-	docker run -u user --env UID=$(shell id -u) --env GID=$(shell id -g) -v ${PROJECT_PATH}:/home/user/${PROJECT_NAME} -P --restart always -dt ${DOCKER_IMAGE_TAG}
+
+	@echo "Running docker image ${DOCKER_IMAGE_TAG}"
+	docker run -dP -v ${PROJECT_PATH}:/home/user/${PROJECT_NAME} ${DOCKER_IMAGE_TAG}
 
 ## Exec container
 exec:
@@ -74,6 +77,8 @@ ci:
 	mkdir -p .github/workflows
 	python3 bin/make_ci.py
 
+shell:
+	nix develop
 # ---
 # Self Documenting Commands
 # ---

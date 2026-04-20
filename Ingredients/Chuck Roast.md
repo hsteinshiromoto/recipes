@@ -1,6 +1,6 @@
 ---
-alias: [Chuck Roast]
-tags: 
+aliases: [chuck roast]
+tags:
 status:
 title: Chuck Roast
 linter-yaml-title-alias: Chuck Roast
