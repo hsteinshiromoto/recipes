@@ -28,8 +28,15 @@ jobs:
 
       - name: Clone and install Quartz
         run: |
-          git clone --branch v4 https://github.com/jackyzha0/quartz.git quartz-build
+          git clone --branch v5 https://github.com/jackyzha0/quartz.git quartz-build
           cd quartz-build && npm ci
+
+      - name: Configure Quartz
+        run: |
+          cd quartz-build
+          cp quartz.config.default.yaml quartz.config.yaml
+          sed -i 's|title: "Quartz 5"|title: "Recipes"|' quartz.config.yaml
+          sed -i 's|baseUrl: "quartz.jzhao.xyz"|baseUrl: "hsteinshiromoto.github.io/recipes"|' quartz.config.yaml
 
       - name: Copy vault content into Quartz
         run: |
@@ -43,6 +50,9 @@ jobs:
                     --exclude='flake.lock' \
                     --exclude='Makefile' \
                     . quartz-build/content/
+
+      - name: Install plugins
+        run: cd quartz-build && npx quartz plugin install --from-config
 
       - name: Build Quartz site
         run: cd quartz-build && npx quartz build
