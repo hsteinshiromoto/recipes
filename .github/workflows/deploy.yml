@@ -28,7 +28,7 @@ jobs:
 
       - name: Clone and install Quartz
         run: |
-          git clone https://github.com/jackyzha0/quartz.git quartz-build
+          git clone --branch v4 https://github.com/jackyzha0/quartz.git quartz-build
           cd quartz-build && npm ci
 
       - name: Copy vault content into Quartz
