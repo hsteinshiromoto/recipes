@@ -36,7 +36,7 @@ jobs:
           cd quartz-build
           cp quartz.config.default.yaml quartz.config.yaml
           sed -i 's|title: "Quartz 5"|title: "Recipes"|' quartz.config.yaml
-          sed -i 's|baseUrl: "quartz.jzhao.xyz"|baseUrl: "hsteinshiromoto.github.io/recipes"|' quartz.config.yaml
+          sed -i 's|baseUrl: "quartz.jzhao.xyz"|baseUrl: "humberto.stein-shiromoto.net/recipes"|' quartz.config.yaml
 
       - name: Copy vault content into Quartz
         run: |
