@@ -49,10 +49,14 @@ jobs:
                     --exclude='flake.nix' \
                     --exclude='flake.lock' \
                     --exclude='Makefile' \
+                    --exclude='bin' \
                     . quartz-build/content/
 
       - name: Install plugins
         run: cd quartz-build && npx quartz plugin install --from-config
+
+      - name: Strip self-referential aliases
+        run: python3 bin/strip_self_aliases.py quartz-build/content
 
       - name: Build Quartz site
         run: cd quartz-build && npx quartz build
