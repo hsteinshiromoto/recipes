@@ -1,5 +1,5 @@
 ---
-alias: 
+alias: [Chinkiang vinegar, Zhenjiang vinegar]
 tags: 
 status:
 aliases: 
