@@ -40,8 +40,8 @@ A simple zucchini casserole with a creamy Parmesan cheese sauce.
 -   2 pounds [[zucchini]] (about 4 medium or 8 small)
 -   1 1/4 teaspoon kosher salt, divided
 -   4 cloves [[garlic]]
--   1 ounce [[Parmesan cheese]] (1/2 cup firmly packed freshly grated or 1/3 cup store-bought grated)
--   4 ounces low-moisture [[mozzarella cheese]]
+-   1 ounce [[Parmiggiano|Parmesan cheese]] (1/2 cup firmly packed freshly grated or 1/3 cup store-bought grated)
+-   4 ounces low-moisture [[Mozzarella|mozzarella cheese]]
 -   2 tablespoons unsalted [[butter]]
 -   1/2 cup [[heavy cream]]
 -   1/2 cup [[sour cream]]

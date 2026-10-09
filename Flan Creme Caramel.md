@@ -21,7 +21,7 @@ status:: todo
 
 # Flan Crème Caramel
 
-Scaled for the [[Nordic Ware Formed Tube Cake Pan, 12 Cup]]. Original ChefSteps recipe uses sous vide jars; adapted here for oven bain-marie. Scale factor: **1.4×** the original base recipe.
+Scaled for the [[Nordic Ware Formed Tube Cake Pan 12 Cup]]. Original ChefSteps recipe uses sous vide jars; adapted here for oven bain-marie. Scale factor: **1.4×** the original base recipe.
 
 ## Ingredients
 
@@ -45,7 +45,7 @@ Scaled for the [[Nordic Ware Formed Tube Cake Pan, 12 Cup]]. Original ChefSteps 
 
 ## Equipment
 
-- [[Nordic Ware Formed Tube Cake Pan, 12 Cup]]
+- [[Nordic Ware Formed Tube Cake Pan 12 Cup]]
 - Large roasting pan (for bain-marie)
 - Candy thermometer (optional)
 - [[Strainer|Fine-mesh strainer]]

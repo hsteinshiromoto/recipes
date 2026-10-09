@@ -33,4 +33,4 @@ status::
 2. Use an immersion blender to blend the ingredients until the onion, pepper, and mustard are fully broken down.
 3. With the immersion blender running, slowly stream in the neutral oil to create an emulsion.
 
-Pair With: [[Little gem]] or [[Romaine]]
+Pair With: [[Little gem]] or [[Romaine Lettuce|Romaine]]

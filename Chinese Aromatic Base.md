@@ -6,5 +6,5 @@ tags: China, aromatic_base
 ## Ingredients
 
 - 1 unit of [[ginger]]
-- 1 unit of [[spring onions]]
+- 1 unit of [[scallion|spring onions]]
 - 1 unit of [[garlic]]

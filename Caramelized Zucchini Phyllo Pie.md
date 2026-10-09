@@ -26,17 +26,17 @@ Crisp, flaky layers of phyllo dough encase a savory filling of caramelized zucch
 
 -   1 (1-pound) package frozen [[phyllo dough]] (13x18-inch), thawed in the refrigerator overnight
 -   1 1/2 pounds [[zucchini]] (about 3 medium)
--   2 medium [[shallots]]
+-   2 medium [[Shallot|shallots]]
 -   5 tablespoons olive oil, divided
 -   2 teaspoons kosher salt, divided
 -   1/2 teaspoon freshly ground black pepper, divided
 -   1 tablespoon water
--   2 large [[eggs]]
+-   2 large [[Egg|eggs]]
 -   1/4 cup tightly-packed coarsely chopped fresh [[basil]] leaves, plus whole leaves for garnish
 -   3 tablespoons coarsely chopped fresh [[dill]]
--   1 1/2 ounces [[Parmesan]] cheese (1 scant cup freshly grated or 1/2 scant cup store-bought)
+-   1 1/2 ounces [[Parmiggiano|Parmesan]] cheese (1 scant cup freshly grated or 1/2 scant cup store-bought)
 -   1 1/2 cups fresh or frozen [[corn]] kernels (from about 2 ears fresh)
--   3 ounces [[feta cheese]] (about 1/3 cup crumbled)
+-   3 ounces [[Fetta|feta cheese]] (about 1/3 cup crumbled)
 -   Hot sauce, for serving (optional)
 
 

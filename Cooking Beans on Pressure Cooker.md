@@ -37,7 +37,7 @@ You can cook any kind of bean in the instant pot, including:
 - [[Great Northern beans]]
 - [[Navy beans]]
 - [[Pinto beans]]
-- [[Cannellini beans]]
+- [[White Beans|Cannellini beans]]
 - [[Chickpeas]] (garbanzo beans)
 - [[Red kidney beans]] though I recommend boiling the beans for about 10 minutes first to break down the lectins.
 

@@ -122,7 +122,7 @@ Whether you’re new to grilling or consider yourself a genuine pit master, _Mas
 
 ![Grilled red peppers being flipped with tongs.](https://res.cloudinary.com/hksqkdlah/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_416/STP_GrilledChickenBreastsRedPepper-AlmondSauce_CookPeppers_0506_pan3b7)
 
-### [[capsicums|Capsicums]]
+### [[Capsicum|Capsicums]]
 
 - Prep: Halve lengthwise; remove core, seeds, and ribs. Cut each half in thirds lengthwise.
 - Cook Time: 7 to 9 minutes, turning once
@@ -162,7 +162,7 @@ Whether you’re new to grilling or consider yourself a genuine pit master, _Mas
 
 ## Parcook These Vegetables First
 
-Dense or spongy items such as [[cauliflower]], [[mushrooms]], and [[potato|potatoes]] benefit from a stint in the microwave before hitting the grill. Parcooking with a little water not only softens them and helps them shed excess moisture but also collapses air pockets between the cell walls so that the vegetables cook up with tender, resilient bite.  
+Dense or spongy items such as [[cauliflower]], [[Mushroom|mushrooms]], and [[potato|potatoes]] benefit from a stint in the microwave before hitting the grill. Parcooking with a little water not only softens them and helps them shed excess moisture but also collapses air pockets between the cell walls so that the vegetables cook up with tender, resilient bite.  
 
 **Steam Then Sear:**
 
@@ -187,7 +187,7 @@ Dense or spongy items such as [[cauliflower]], [[mushrooms]], and [[potato|potat
 
 ![Mushrooms on the grill. ](https://res.cloudinary.com/hksqkdlah/image/upload/c_fill,dpr_2.0,f_auto,fl_lossy.progressive.strip_profile,g_faces:auto,q_auto:low,w_416/SFS_Grilled_Mushrooms_021_st926w)
 
-### [[Mushrooms]]
+### [[Mushroom|Mushrooms]]
 
 - Prep: **White/Cremini:** Trim tough ends; halve. **King Oyster:** Trim stems; slice crosswise ¾ inch thick. **Oyster/Maitake:** Trim; tear into 2- to 2½-inch pieces. **Portobello:** Stem; halve caps smaller than 4 inches, quarter if larger
 - Microwave Time: 3 minutes
@@ -221,7 +221,7 @@ Whisk 2 tablespoons extra-virgin olive oil, 2 teaspoons [[Lemon|lemon]] juice, 1
 
 Yield: About ⅔ cup
 
-Combine ½ cup plain Greek [[Yoghurt|yoghurt]], 1 tablespoon minced fresh [[Cilantro|cilantro]], ½ teaspoon grated [[lime zest]] plus 1 teaspoon juice, and ½ teaspoon sriracha in small bowl. Season with salt to taste.
+Combine ½ cup plain Greek [[Yoghurt|yoghurt]], 1 tablespoon minced fresh [[Cilantro|cilantro]], ½ teaspoon grated [[Lime|lime zest]] plus 1 teaspoon juice, and ½ teaspoon sriracha in small bowl. Season with salt to taste.
 
 ## References
 

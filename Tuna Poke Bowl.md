@@ -45,7 +45,7 @@ date modified: Monday, 20th March 2023, 21:24:42
 
 **Pickle the carrots:**
 
-Add the julienned [[carrots]] and sliced serranos to a jar and pour over a mixture of boiling water, [[Rice Vinegar|rice wine vinegar]], and salt. These will be ready for use once cooled and will get more pickled over time. The jar can be stored in the fridge for a long time.
+Add the julienned [[Carrot|carrots]] and sliced serranos to a jar and pour over a mixture of boiling water, [[Rice Vinegar|rice wine vinegar]], and salt. These will be ready for use once cooled and will get more pickled over time. The jar can be stored in the fridge for a long time.
 
 **Make the seasoning sauce & marinate the tuna:**
 
