@@ -20,7 +20,7 @@ date modified: Tuesday, 3rd January 2023, 22:24:27
 - Green Vegetable of Choice (Sea Beans, Asparagus, [[Snow Peas]], [[Kale]])
 - 1-inch Knob of [[Ginger]], diced
 - 1 [[scallion|Green Onion]], thinly sliced
-- 2-3 Thai Chiles (or 1 Serrano), thinly sliced
+- 2-3 Thai Chiles (or 1 [[Serrano]]), thinly sliced
 - 10-20 [[Thai Basil]] Leaves, ripped or chopped
 - Sprinkle of MSG (optional)
 - 30 g Neutral Oil (Peanut, Vegetable, etc.)

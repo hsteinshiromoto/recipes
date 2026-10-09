@@ -32,7 +32,7 @@ date modified: Monday, 20th March 2023, 21:24:42
 - 100 g (~1/2 cup) water
 - 100 g (~1/2 cup) [[Rice Vinegar|rice wine vinegar]]
 - 1 large [[carrot]], julienned
-- 1 serrano, sliced thin
+- 1 [[Serrano|serrano]], sliced thin
 - Sprinkle of Salt
 - Sprinkle of MSG (optional)
 

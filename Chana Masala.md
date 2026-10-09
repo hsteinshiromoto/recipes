@@ -7,7 +7,7 @@ date created: Monday, 4th March 2024, 21:28:37
 
 # GATHER YOUR INGREDIENTS
 
-1 small red onion, quartered, divided10 sprigs fresh cilantro, stems and leaves separated1 (1½-inch) piece ginger, peeled and chopped coarse2 garlic cloves, chopped coarse2 serrano chiles, stemmed, halved, seeded, and sliced thin crosswise, divided3 tablespoons 1 (14.5-ounce) can 1 teaspoon Kashmiri chile powder
+1 small red onion, quartered, divided10 sprigs fresh cilantro, stems and leaves separated1 (1½-inch) piece ginger, peeled and chopped coarse2 garlic cloves, chopped coarse2 [[Serrano|serrano chiles]], stemmed, halved, seeded, and sliced thin crosswise, divided3 tablespoons 1 (14.5-ounce) can 1 teaspoon Kashmiri chile powder
 
 1 teaspoon ½ teaspoon ground turmeric½ teaspoon fennel seeds2 (15-ounce) cans undrained1 ½ teaspoons ½ teaspoon table salt Lime wedge
 
