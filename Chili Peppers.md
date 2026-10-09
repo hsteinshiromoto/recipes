@@ -16,8 +16,8 @@ Chilli varieties grouped by heat in Scoville Heat Units (SHU), with each pepper'
 
 | Pepper | Origin | SHU | Rating |
 |---|---|---|---|
-| [[Trinidad Moruga Scorpion]] | Trinidad and Tobago | ≥500,000 | N/A |
-| [[Bhut Jolokia]] | India | ≥500,000 | 3.5 |
+| [[Trinidad Moruga Scorpion]] | Trinidad and Tobago | Up to 2,000,000 | N/A |
+| [[Bhut Jolokia]] | Northeastern India | 855,000–1,041,427 | 3.5 |
 
 ## Very Hot (100,000–<500,000 SHU)
 
@@ -55,7 +55,7 @@ Chilli varieties grouped by heat in Scoville Heat Units (SHU), with each pepper'
 | [[Poblano]] | Puebla, Mexico | 1,000–2,000 | 3.9 |
 | [[Anaheim]] | USA | 500–2,500 | 2.9 |
 
-The SHU ranges come from the individual cards; the cards for a few peppers (Chiltepin, Chile de Árbol, Fresno, Jalapeño) give ranges that cross their chart tier. No card was included for Malagueta, Trinidad Moruga Scorpion or Bhut Jolokia.
+The SHU ranges come from the individual cards; the cards for a few peppers (Chiltepin, Chile de Árbol, Fresno, Jalapeño) give ranges that cross their chart tier. No card was included for Malagueta.
 
 ## References
 
