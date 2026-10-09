@@ -9,6 +9,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 
 ## Recipes
 
+- [[Air Fryer Crispy Fried Chicken with Gravy]]
 - [[Asian Pantry Guide]]
 - [[Black Forest Terrine]]
 - [[Cantonese Chow Mein]]
@@ -184,6 +185,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 
 ## Equipment
 
+- [[Air Fryer]]
 - [[Baking tray]]
 - [[Bowl]]
 - [[Instant Pot]]
