@@ -15,6 +15,8 @@ Target temperatures at the thickest part of the meat, away from bone. Always res
 
 ## Beef & Lamb — Doneness Scale
 
+For steaks and roasts such as [[Flank Steak]] and [[Chuck Roast]].
+
 | Doneness | Description | °F | °C |
 |---|---|---|---|
 | Rare | Cool red center | 125°F | 52°C |
@@ -22,7 +24,7 @@ Target temperatures at the thickest part of the meat, away from bone. Always res
 | Medium | Pink center, firmer | 145°F | 63°C |
 | Medium Well | Slightly pink, mostly grey | 155°F | 68°C |
 | Well Done | No pink, grey throughout | 160°F | 71°C |
-| 🟢 Ground Beef | Always cook fully — USDA minimum | 160°F | 71°C |
+| 🟢 [[Beef Mince\|Ground Beef]] | Always cook fully — USDA minimum | 160°F | 71°C |
 
 ---
 
@@ -30,10 +32,10 @@ Target temperatures at the thickest part of the meat, away from bone. Always res
 
 | Cut | °F | °C |
 |---|---|---|
-| 🟢 Chicken breast | 165°F | 74°C |
-| 🟢 Chicken thighs / legs | 175°F | 79°C |
-| 🟢 Whole chicken / turkey | 165°F | 74°C |
-| 🟢 Ground poultry | 165°F | 74°C |
+| 🟢 [[chicken breast\|Chicken breast]] | 165°F | 74°C |
+| 🟢 [[Chicken Thighs\|Chicken thighs]] / legs | 175°F | 79°C |
+| 🟢 [[Whole Chicken\|Whole chicken]] / turkey | 165°F | 74°C |
+| 🟢 Ground poultry (e.g. [[Turkey Mince\|turkey mince]]) | 165°F | 74°C |
 | 🟡 Duck breast (med. rare) | 135°F | 57°C |
 
 ---
@@ -42,10 +44,10 @@ Target temperatures at the thickest part of the meat, away from bone. Always res
 
 | Cut | °F | °C |
 |---|---|---|
-| 🟢 Chops / loin / tenderloin | 145°F | 63°C |
+| 🟢 [[Pork Chops\|Chops]] / loin / tenderloin | 145°F | 63°C |
 | 🟢 Ground pork | 160°F | 71°C |
 | 🔴 Spare ribs / back ribs | 195–203°F | 90–95°C |
-| 🔴 Pulled pork (shoulder) | 195–205°F | 90–96°C |
+| 🔴 Pulled pork ([[pork shoulder\|shoulder]]) | 195–205°F | 90–96°C |
 | 🟡 Ham (pre-cooked, reheat) | 140°F | 60°C |
 
 ---
@@ -54,7 +56,7 @@ Target temperatures at the thickest part of the meat, away from bone. Always res
 
 | Cut | °F | °C |
 |---|---|---|
-| 🔴 Rare (leg, rack, chops) | 125°F | 52°C |
+| 🔴 Rare ([[Lamb Leg Steaks\|leg]], rack, chops) | 125°F | 52°C |
 | 🔴 Medium rare | 135°F | 57°C |
 | 🟡 Medium | 145°F | 63°C |
 | Medium Well | 155°F | 68°C |
@@ -66,10 +68,10 @@ Target temperatures at the thickest part of the meat, away from bone. Always res
 
 | Cut | °F | °C |
 |---|---|---|
-| 🟢 Fish fillets (white fish, cod) | 145°F | 63°C |
-| 🟡 Salmon (medium, moist) | 125–130°F | 52–54°C |
-| 🔴 Tuna (rare sear) | 115–120°F | 46–49°C |
-| 🟢 Shrimp / crab / lobster | 145°F | 63°C |
+| 🟢 [[White Fish Fillets\|Fish fillets]] (white fish, cod) | 145°F | 63°C |
+| 🟡 [[Salmon Fillets\|Salmon]] (medium, moist) | 125–130°F | 52–54°C |
+| 🔴 [[Tuna]] (rare sear) | 115–120°F | 46–49°C |
+| 🟢 [[Prawns\|Shrimp]] / crab / lobster | 145°F | 63°C |
 | 🟡 Scallops (med. rare sear) | 130°F | 54°C |
 
 ---
