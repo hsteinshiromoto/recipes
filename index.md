@@ -23,6 +23,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 - [[Coffee Syrup]]
 - [[Cooking Beans on Pressure Cooker]]
 - [[Curau de Milho]]
+- [[Dates with Gorgonzola and Anchovies]]
 - [[Dessert Terrine]]
 - [[Fermented Mustard]]
 - [[French Terrine]]
@@ -55,6 +56,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 ## Ingredients
 
 - [[00 flour]]
+- [[Anchovies]]
 - [[Baking Soda]]
 - [[Basil]]
 - [[Beef Bone]]
@@ -84,6 +86,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 - [[Furikake]]
 - [[Garlic]]
 - [[Gochujang]]
+- [[Gorgonzola]]
 - [[Hoisin]]
 - [[Honey]]
 - [[Instant dry yeast]]
@@ -95,6 +98,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 - [[Marie cracker]]
 - [[Mascarpone]]
 - [[Mayonnaise]]
+- [[Medjool Dates]]
 - [[Mozzarella]]
 - [[MSG]]
 - [[Pao de Queijo Dough]]
