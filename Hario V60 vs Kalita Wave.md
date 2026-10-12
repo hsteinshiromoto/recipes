@@ -26,12 +26,12 @@ status::
 
 ## Summary
 
-| | Hario V60 | Kalita Wave |
-|---|---|---|
-| Shape | Steep cone, one large hole | Flat bottom, three small holes |
-| Flow | Fast, little resistance | Slow, restricted |
-| Contact time | Short | Long |
-| Cup | High acidity, light body, flavour clarity | Deep sugars, sweeter, heavy body |
+|              | Hario V60                                 | Kalita Wave                      |
+| ------------ | ----------------------------------------- | -------------------------------- |
+| Shape        | Steep cone, one large hole                | Flat bottom, three small holes   |
+| Flow         | Fast, little resistance                   | Slow, restricted                 |
+| Contact time | Short                                     | Long                             |
+| Cup          | High acidity, light body, flavour clarity | Deep sugars, sweeter, heavy body |
 
 ## Technique
 
