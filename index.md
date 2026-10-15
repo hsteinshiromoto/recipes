@@ -58,6 +58,7 @@ date created: Sunday, 16th June 2024, 22:38:35
 - [[Tuna Poke Bowl]]
 - [[What's the Difference Between Baking Powder and Baking Soda  Ask The Food Lab]]
 - [[White Cuban]]
+- [[Whole Chicken, Cabbage and Apple Soup]]
 - [[Why Baking Soda Is the Most Useful Ingredient in Your Kitchen]]
 
 ## Ingredients
