@@ -6,6 +6,10 @@
 .npm
 .ssh
 .lesshst
+## Folders ##
+
+tmp/
+
 ## Obsidian ##
 
 quartz/
